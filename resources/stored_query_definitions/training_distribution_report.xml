@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<careServicesFunction xmlns="urn:ihe:iti:csd:2013"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csd="urn:ihe:iti:csd:2013"
+  xsi:schemaLocation="urn:ihe:iti:csd:2013 CSD.xsd" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+  uuid="5c0a43ce-b1d0-4c26-82ec-422fb2aaf1d4" 
+  content-type="text/xhtml"
+  >
+  <description>
+    Distribution report on the number of health workers in a training program.  Disaggregated by province of current employment. Seacrh parameter by start date of trainings and end date of trainings, and training funder.    Html as ouput.
+  </description>
+  <definition ><xi:include parse='text' href='training_distribution_report.xq'/></definition>
+  <xforms:instance> 
+    <careServicesRequest>
+      <start_date/>
+      <end_date/>
+      <funding_institution/>
+    </careServicesRequest>
+  </xforms:instance>
+  <xforms:bind nodeset="funding_institution" type="csd:codedType"/>
+  <xforms:bind nodeset="start_date" type="xs:date"/>
+  <xforms:bind nodeset="end_date" type="xs:date"/>
+</careServicesFunction>
