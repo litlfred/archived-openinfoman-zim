@@ -5,21 +5,14 @@
   xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms"
   xmlns:xsd="http://www.w3.org/2001/XMLSchema"
   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-  uuid="5c0a43ce-b1d0-4c26-82ec-422fb2aaf1d4"
-  content-type="text/xhtml"
+  uuid="1dbbf594-53ec-4044-9f76-70c37eebc54f"
+  content-type="text/csv"
   >
   <description>
-    Distribution report on the number of health workers in a training program. Disaggregated by province of current employment. Seacrh parameter by start date of trainings and end date of trainings, and training funder. Html as ouput.
+    CSV export for TrainSMART for participants
   </description>
-  <definition ><xi:include parse='text' href='training_distribution_report.xq'/></definition>
+  <definition ><xi:include parse='text' href='CSV Export_for_TrainSMART.xq'/></definition>
   <xforms:instance>
-    <careServicesRequest>
-      <start_date/>
-      <end_date/>
-      <funding_institution/>
-    </careServicesRequest>
+    <careServicesRequest/>
   </xforms:instance>
-  <xforms:bind nodeset="funding_institution" type="csd:codedType"/>
-  <xforms:bind nodeset="start_date" type="xs:date"/>
-  <xforms:bind nodeset="end_date" type="xs:date"/>
 </careServicesFunction>
