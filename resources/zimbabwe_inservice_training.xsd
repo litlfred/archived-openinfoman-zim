@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    xmlns:csd="urn:ihe:iti:csd:2013">
+    <xs:import namespace="urn:ihe:iti:csd:2013" schemaLocation="CSD.xsd"/>
+
+    <xs:complexType name="inservice_training">
+        <xs:sequence>
+            <xs:element name="program" type="xs:string"/>
+            <xs:element minOccurs="0" name="start_date" type="xs:date"/>
+            <xs:element minOccurs="0" name="end_date" type="xs:date"/>
+            <xs:element minOccurs="0" name="certificate">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:base64Binary">
+                            <xs:attribute name="mime-type"/>
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="training_institution" type="csd:codedtype"/>
+            <xs:element minOccurs="0" name="awarding_institution" type="csd:codedtype"/>
+            <xs:element minOccurs="0" name="funding_institution" type="csd:codedtype"/>
+            <xs:element minOccurs="0" name="CPD">
+                <xs:complexType>
+                    <xs:complexContent>
+                        <xs:extension base="csd:codedtype">
+                            <xs:attribute name="credit_points" type="xs:float"/>
+                        </xs:extension>
+                    </xs:complexContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="category" type="csd:codedtype">
+                <xs:annotation>
+                    <xs:documentation>This is used to indicate the category of training.  Example use is to put the PEPFAR HIV training category
+</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
