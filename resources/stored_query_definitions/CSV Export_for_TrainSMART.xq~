@@ -1,12 +1,10 @@
-declare module namespace tpl = "urn:hitrac.org.zw:stored_query:trainSMART_participant_list";
-
 import module namespace csv = "http://basex.org/modules/csv";
 
-declare element namespace csd = "urn:ihe:iti:csd:2013";
+declare namespace csd ="urn:ihe:iti:csd:2013";
 declare variable $careServicesRequest as item() external;
 
 
-declare function tpl:get_current_deployment_facility($provider) {
+let $get_current_deployment_facility:= function($provider) {
   let $facs := $provider/csd:facilities/csd:facility
   let $start_dates := distinct-values($facs/csd:extension[@type='deployment_details' and @oid='2.25.62572576096234591446887698759906520253']/start_date)
   (:maybe no start_date data was uploaded yet:)
@@ -21,13 +19,32 @@ declare function tpl:get_current_deployment_facility($provider) {
   return $fac_record
 }
 
-for $provider in /csd:CSD/csd:providerDirectory/csd:provider
-   let $surname := ($provider/csd:demographic/csd:name/csd:surname)[1]
-   let $forename := ($provider/csd:demographic/csd:name/csd:forename)[1]
-   let $nationalId := string(($provider/csd:otherID[@assigningAuthorityName = "mohaffairs.gov"]/@code)[1])
-   let $gender := $provider/csd:demographic/csd:gender
-   let $professional_qualification := ($provider/csd:codedType/@code)[1]
-   let $facility := tpl:get_current_deployment_facility($provider)
-   let $facility_name := $facility/csd:primaryName
 
+let $input := <csv>
+ {for $provider in /csd:CSD/csd:providerDirectory/csd:provider[position()<=50]
+   let $surname := ($provider/csd:demographic/csd:name/csd:surname)[1]/text()
+   let $forename := ($provider/csd:demographic/csd:name/csd:forename)[1]/text()
+   let $nationalId := string(($provider/csd:otherID[@assigningAuthorityName = "mohaffairs.gov"]/@code)[1])
+   let $gender := $provider/csd:demographic/csd:gender/text()
+   let $professional_qualification := string(($provider/csd:codedType/@code)[1])
+   let $facility := $get_current_deployment_facility($provider)
+   let $facility_name := $facility/csd:primaryName/text()
+ return <record>
+           <last_name>{$surname}</last_name>
+           <first_name>{$forename}</first_name>
+           <national_id>{$nationalId}</national_id>
+           <gender>{$gender}</gender>
+           <qualification_phrase>{$professional_qualification}</qualification_phrase>
+           <facility_name>{$facility_name}</facility_name>  
+        </record>
+ 
+}
+</csv>
+let $options :=
+  <csv:options>
+    <csv:header value='yes'/>
+  </csv:options>
+ 
+let $csv := csv:serialize($input,$options)
+return $csv
 
