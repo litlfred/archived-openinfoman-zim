@@ -1,0 +1,512 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.278833312560998189344547095792153373333" version="1" displayName="MohccPost">
+    <ConceptList>
+        <Concept code="c9d55902-f179-11e3-b68f-080027b12d01" displayName="Accountant " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d304ea-f179-11e3-b68f-080027b12d01" displayName="Accounting Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1177a-f179-11e3-b68f-080027b12d01" displayName="Accounts Clerk/ Paralegal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30058-f179-11e3-b68f-080027b12d01" displayName="Administration  Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2fba8-f179-11e3-b68f-080027b12d01" displayName="Administration Officer " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f786-f179-11e3-b68f-080027b12d01" displayName="Administrative Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7766a-f179-11e3-b68f-080027b12d01" displayName="Adolescent Health Services Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0fc0e-f179-11e3-b68f-080027b12d01" displayName="Allocation Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d13c0a-f179-11e3-b68f-080027b12d01" displayName="Ambulance Driver" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d343c4-f179-11e3-b68f-080027b12d01" displayName="Analytical Chemist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d147ae-f179-11e3-b68f-080027b12d01" displayName="Artisan" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3459a-f179-11e3-b68f-080027b12d01" displayName="Artist " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d12d96-f179-11e3-b68f-080027b12d01" displayName="Assistant  Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34478-f179-11e3-b68f-080027b12d01" displayName="Assistant Artisans" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10b0e-f179-11e3-b68f-080027b12d01" displayName="Assistant Buyer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d413b2-f179-11e3-b68f-080027b12d01" displayName="Assistant Catering Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d132be-f179-11e3-b68f-080027b12d01" displayName="Assistant Clinical Psychologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0fa24-f179-11e3-b68f-080027b12d01" displayName="Assistant Director Training" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c3da-f179-11e3-b68f-080027b12d01" displayName="Assistant Domestic Ward  Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0fede-f179-11e3-b68f-080027b12d01" displayName="Assistant Health Information Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a8ba-f179-11e3-b68f-080027b12d01" displayName="Assistant Hostels Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d13462-f179-11e3-b68f-080027b12d01" displayName="Assistant Laundry Superintendtent" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30ddc-f179-11e3-b68f-080027b12d01" displayName="Assistant Librarian" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c06a-f179-11e3-b68f-080027b12d01" displayName="Assistant Nutritionist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d79690-f179-11e3-b68f-080027b12d01" displayName="Assistant Systems Administrator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3029c-f179-11e3-b68f-080027b12d01" displayName="Audit Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d557fe-f179-11e3-b68f-080027b12d01" displayName="Auditor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0ff88-f179-11e3-b68f-080027b12d01" displayName="Baker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4320c-f179-11e3-b68f-080027b12d01" displayName="Blockman" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78b50-f179-11e3-b68f-080027b12d01" displayName="Board Member" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d109a6-f179-11e3-b68f-080027b12d01" displayName="Builder / Bricklayer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b312-f179-11e3-b68f-080027b12d01" displayName="Butchery Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7889e-f179-11e3-b68f-080027b12d01" displayName="Cadet" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35850-f179-11e3-b68f-080027b12d01" displayName="Caretaker / Groundsman" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a518-f179-11e3-b68f-080027b12d01" displayName="Carpenter" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55ad8-f179-11e3-b68f-080027b12d01" displayName="Carpenter (i/ii/iii)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4368a-f179-11e3-b68f-080027b12d01" displayName="Catering  Manager /superintendent" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45994-f179-11e3-b68f-080027b12d01" displayName="Catering  Supervisor  " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11568-f179-11e3-b68f-080027b12d01" displayName="Catering Attendant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a680-f179-11e3-b68f-080027b12d01" displayName="Catering Attendant I/ii" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7af22-f179-11e3-b68f-080027b12d01" displayName="Catering Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7aacc-f179-11e3-b68f-080027b12d01" displayName="Catering Superitendent" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78c40-f179-11e3-b68f-080027b12d01" displayName="Chairman (hsb)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1032a-f179-11e3-b68f-080027b12d01" displayName="Charge Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e0fe-f179-11e3-b68f-080027b12d01" displayName="Chef" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5155a-f179-11e3-b68f-080027b12d01" displayName="Chief Accountant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3bbec-f179-11e3-b68f-080027b12d01" displayName="Chief Buyer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e5a2-f179-11e3-b68f-080027b12d01" displayName="Chief Corporate Service Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d37916-f179-11e3-b68f-080027b12d01" displayName="Chief Dietician (director Of Nutrition0" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3427a-f179-11e3-b68f-080027b12d01" displayName="Chief Engineer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0faba-f179-11e3-b68f-080027b12d01" displayName="Chief Executive Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4dba8-f179-11e3-b68f-080027b12d01" displayName="Chief Field Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30a4e-f179-11e3-b68f-080027b12d01" displayName="Chief Government Pathologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10640-f179-11e3-b68f-080027b12d01" displayName="Chief Hospital Equipment Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d362dc-f179-11e3-b68f-080027b12d01" displayName="Chief Hospital Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3112e-f179-11e3-b68f-080027b12d01" displayName="Chief Internal Auditor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d369a8-f179-11e3-b68f-080027b12d01" displayName="Chief Laboratory Scientist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30bca-f179-11e3-b68f-080027b12d01" displayName="Chief Medical Laboratory Scientist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d366e2-f179-11e3-b68f-080027b12d01" displayName="Chief Medical Laboratory Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35274-f179-11e3-b68f-080027b12d01" displayName="Chief Orthopaedic Technologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33e38-f179-11e3-b68f-080027b12d01" displayName="Chief Pharmacist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31296-f179-11e3-b68f-080027b12d01" displayName="Chief Physicist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4d9dc-f179-11e3-b68f-080027b12d01" displayName="Chief Radiation Protection Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d311f6-f179-11e3-b68f-080027b12d01" displayName="Chief Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c330-f179-11e3-b68f-080027b12d01" displayName="Chief Therapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d415ba-f179-11e3-b68f-080027b12d01" displayName="Cleaning Surpervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2f2de-f179-11e3-b68f-080027b12d01" displayName="Clerk" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3ca2e-f179-11e3-b68f-080027b12d01" displayName="Clinical Instructor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d517d0-f179-11e3-b68f-080027b12d01" displayName="Clinical Laboratory Services Coordinator " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0cfb8-f179-11e3-b68f-080027b12d01" displayName="Clinical Nursing Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d315fc-f179-11e3-b68f-080027b12d01" displayName="Clinical Psychologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d313fe-f179-11e3-b68f-080027b12d01" displayName="Clinical Psychologist/senior" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11982-f179-11e3-b68f-080027b12d01" displayName="Clinical Services Director" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d444fe-f179-11e3-b68f-080027b12d01" displayName="Comissioning Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d539f4-f179-11e3-b68f-080027b12d01" displayName="Computer Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d791c2-f179-11e3-b68f-080027b12d01" displayName="Condom Promotion And Communication Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d43aea-f179-11e3-b68f-080027b12d01" displayName="Cook 111/11/1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4bb8c-f179-11e3-b68f-080027b12d01" displayName="Copying/duplicating Operator Senior" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0eb74-f179-11e3-b68f-080027b12d01" displayName="Corporate Service Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78e20-f179-11e3-b68f-080027b12d01" displayName="Counselling Services Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d502ae-f179-11e3-b68f-080027b12d01" displayName="Coxswain" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d407e6-f179-11e3-b68f-080027b12d01" displayName="Creche Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d410f6-f179-11e3-b68f-080027b12d01" displayName="Cssd Packer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45c96-f179-11e3-b68f-080027b12d01" displayName="Cssd Packer/ Senior" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0c8b0-f179-11e3-b68f-080027b12d01" displayName="Cuban Medical Personnel" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b47a-f179-11e3-b68f-080027b12d01" displayName="Darkroom Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0ec32-f179-11e3-b68f-080027b12d01" displayName="Data Capture Clerk" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a5e0-f179-11e3-b68f-080027b12d01" displayName="Data Capture Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d73272-f179-11e3-b68f-080027b12d01" displayName="Dental Cadet" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40cb4-f179-11e3-b68f-080027b12d01" displayName="Dental Surgery Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34676-f179-11e3-b68f-080027b12d01" displayName="Dental Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34716-f179-11e3-b68f-080027b12d01" displayName="Dental Technician Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d92e-f179-11e3-b68f-080027b12d01" displayName="Dental Technician Tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34860-f179-11e3-b68f-080027b12d01" displayName="Dental Therapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34914-f179-11e3-b68f-080027b12d01" displayName="Dental Therapist Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4fc46-f179-11e3-b68f-080027b12d01" displayName="Dental Therapy Tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44ea4-f179-11e3-b68f-080027b12d01" displayName="Deputy Chief Pathologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0c64e-f179-11e3-b68f-080027b12d01" displayName="Deputy Director  Communicable Diseases" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d77408-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Adminstration And Logistics" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7947e-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Community Nursing" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0dd8c-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Conditions Of Service" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d32146-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Disease Prevention Control" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4d8ce-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Food Control" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5563c-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Food Safety And Port Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d546e2-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Government Analyst/admin,toxi, Clinical" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f38a-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Health Information And Surveilance" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7ae1e-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Health Information And Surveillance" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7b92c-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Health Promotion" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53166-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Hospital Planning And Project Management" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d54eb2-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Human Resources" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7b08a-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Laboratory Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0de90-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Legal Affairs" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e250-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Manpower Planning And Development" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9ce0896-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Non  Communicable Diseases" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c726-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Nurse Training And Administration" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d54cb4-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Nurse Training And Adminstration" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e6a2-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Nutrition Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a3ce-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Pharmacy Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5443a-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Policy And Planning" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d37ec0-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Reproductive Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31890-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Research" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7852e-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Sti, Hiv And Aids" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d786a0-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Tb Control" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52f86-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Traditional Medicine Policy And Practice Control" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d518d4-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Traditional Medicine Policy And Practice Control Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7b83c-f179-11e3-b68f-080027b12d01" displayName="Deputy Director Traditional Medicine Research And Information" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31f7a-f179-11e3-b68f-080027b12d01" displayName="Deputy Government Analyst" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78948-f179-11e3-b68f-080027b12d01" displayName="Deputy Minister" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7b29c-f179-11e3-b68f-080027b12d01" displayName="Deputy Water Safety ,sanitation And Waste Management" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d54264-f179-11e3-b68f-080027b12d01" displayName="Dietician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4f372-f179-11e3-b68f-080027b12d01" displayName="Director Blair Research" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e066-f179-11e3-b68f-080027b12d01" displayName="Director Conditions Of Service And Public Relations" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35666-f179-11e3-b68f-080027b12d01" displayName="Director Environmental Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d374a2-f179-11e3-b68f-080027b12d01" displayName="Director Epidemiology And Disease Control" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3cce0-f179-11e3-b68f-080027b12d01" displayName="Director Family Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3cef2-f179-11e3-b68f-080027b12d01" displayName="Director Finance And Adminstration" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4d70c-f179-11e3-b68f-080027b12d01" displayName="Director Government Analyst Laboratory" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d410-f179-11e3-b68f-080027b12d01" displayName="Director Hiv, Aids, Sti And Tb" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3dfbe-f179-11e3-b68f-080027b12d01" displayName="Director Human Resources" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d795dc-f179-11e3-b68f-080027b12d01" displayName="Director Laboratory Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d438c4-f179-11e3-b68f-080027b12d01" displayName="Director Nursing Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d316c4-f179-11e3-b68f-080027b12d01" displayName="Director Of Finance" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3551c-f179-11e3-b68f-080027b12d01" displayName="Director Of Operations" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d326be-f179-11e3-b68f-080027b12d01" displayName="Director Oral Health Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d46dd0-f179-11e3-b68f-080027b12d01" displayName="Director Performance Management" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c08c-f179-11e3-b68f-080027b12d01" displayName="Director Pharmacy Services" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c262-f179-11e3-b68f-080027b12d01" displayName="Director Policy And Planning" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c44c-f179-11e3-b68f-080027b12d01" displayName="Director Quality Assurance" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33776-f179-11e3-b68f-080027b12d01" displayName="Director Technical Support" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c550-f179-11e3-b68f-080027b12d01" displayName="Director Traditional Medicine" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4467a-f179-11e3-b68f-080027b12d01" displayName="Dispensary Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d503a8-f179-11e3-b68f-080027b12d01" displayName="District Environmental Health Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31ac0-f179-11e3-b68f-080027b12d01" displayName="District Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d43a0e-f179-11e3-b68f-080027b12d01" displayName="District Nursing Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f178-f179-11e3-b68f-080027b12d01" displayName="District Tb Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34aea-f179-11e3-b68f-080027b12d01" displayName="Domestic Services Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45246-f179-11e3-b68f-080027b12d01" displayName="Driver" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d405f2-f179-11e3-b68f-080027b12d01" displayName="Duplication Operator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d38f78-f179-11e3-b68f-080027b12d01" displayName="Eeg, Ecg Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f628-f179-11e3-b68f-080027b12d01" displayName="Electrician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44878-f179-11e3-b68f-080027b12d01" displayName="Emergency Preparedness Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35df0-f179-11e3-b68f-080027b12d01" displayName="Environmental Health Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3620a-f179-11e3-b68f-080027b12d01" displayName="Environmental Health Officer Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d397a2-f179-11e3-b68f-080027b12d01" displayName="Environmental Health Techinician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d5f0-f179-11e3-b68f-080027b12d01" displayName="Environmental Health Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ced8-f179-11e3-b68f-080027b12d01" displayName="Environmental Techncian" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2eba4-f179-11e3-b68f-080027b12d01" displayName="Executive Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4f638-f179-11e3-b68f-080027b12d01" displayName="Executive Assistant/senior/principal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0dbb6-f179-11e3-b68f-080027b12d01" displayName="Executive Director" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2f9be-f179-11e3-b68f-080027b12d01" displayName="Executive Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5056a-f179-11e3-b68f-080027b12d01" displayName="Executive Officer Of Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0ee44-f179-11e3-b68f-080027b12d01" displayName="Executive Secretary" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d799e2-f179-11e3-b68f-080027b12d01" displayName="Expanded Program For Immunisation Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d537ec-f179-11e3-b68f-080027b12d01" displayName="Facilities Planning Administrative Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d359cc-f179-11e3-b68f-080027b12d01" displayName="Farm Manager Ii" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34e64-f179-11e3-b68f-080027b12d01" displayName="Field Office" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4a3ea-f179-11e3-b68f-080027b12d01" displayName="Field Orderly" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44724-f179-11e3-b68f-080027b12d01" displayName="Field Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ccf8-f179-11e3-b68f-080027b12d01" displayName="Food Safety And Port Health Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10d02-f179-11e3-b68f-080027b12d01" displayName="Gardener" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d48d9c-f179-11e3-b68f-080027b12d01" displayName="General Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d73010-f179-11e3-b68f-080027b12d01" displayName="Gis Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31db8-f179-11e3-b68f-080027b12d01" displayName="Government Analyst" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3225e-f179-11e3-b68f-080027b12d01" displayName="Government Dental Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d31c8c-f179-11e3-b68f-080027b12d01" displayName="Government Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d24e-f179-11e3-b68f-080027b12d01" displayName="Government Medical Officer/ Training Posts" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d524e6-f179-11e3-b68f-080027b12d01" displayName="Graphic Artist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d12bde-f179-11e3-b68f-080027b12d01" displayName="Grounds Man Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f038-f179-11e3-b68f-080027b12d01" displayName="Groundsman" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40a02-f179-11e3-b68f-080027b12d01" displayName="Handy Man" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d331c2-f179-11e3-b68f-080027b12d01" displayName="Hardware Maintenance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d526f8-f179-11e3-b68f-080027b12d01" displayName="Health Information And Surveillance Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d38cbc-f179-11e3-b68f-080027b12d01" displayName="Health Information Assistant(medical Records Assistant)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52ba8-f179-11e3-b68f-080027b12d01" displayName="Health Information Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d39cca-f179-11e3-b68f-080027b12d01" displayName="Health Information Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b538-f179-11e3-b68f-080027b12d01" displayName="Health Orderly" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52144-f179-11e3-b68f-080027b12d01" displayName="Health Promotion Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52324-f179-11e3-b68f-080027b12d01" displayName="Health Promotion Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d39e82-f179-11e3-b68f-080027b12d01" displayName="Health Promotion Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0d558-f179-11e3-b68f-080027b12d01" displayName="Health Services Administrator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52cca-f179-11e3-b68f-080027b12d01" displayName="Health Surveillance Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e9ea-f179-11e3-b68f-080027b12d01" displayName="Health Training Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7bb3e-f179-11e3-b68f-080027b12d01" displayName="Hiv &amp; Aids Sti&amp; Tb Surveillance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d529f0-f179-11e3-b68f-080027b12d01" displayName="Hiv And Aids Sti And Tb Surveillance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7ba80-f179-11e3-b68f-080027b12d01" displayName="Hod Specialist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d797e4-f179-11e3-b68f-080027b12d01" displayName="Home Warden" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1091a-f179-11e3-b68f-080027b12d01" displayName="Hospital Claims Assessor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a306-f179-11e3-b68f-080027b12d01" displayName="Hospital Engineer/ Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10168-f179-11e3-b68f-080027b12d01" displayName="Hospital Equipment Engineer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5344a-f179-11e3-b68f-080027b12d01" displayName="Hospital Equipment Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45d86-f179-11e3-b68f-080027b12d01" displayName="Hospital Equipment Repairer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36430-f179-11e3-b68f-080027b12d01" displayName="Hospital Equipment Techinician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d404da-f179-11e3-b68f-080027b12d01" displayName="Hospital Equipment Technician Assistant Chief" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3cb6e-f179-11e3-b68f-080027b12d01" displayName="Hospital Food Services Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d49472-f179-11e3-b68f-080027b12d01" displayName="Hospital Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d333a2-f179-11e3-b68f-080027b12d01" displayName="Hospital Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53616-f179-11e3-b68f-080027b12d01" displayName="Hospital Planning Coordinator (engineer)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d050-f179-11e3-b68f-080027b12d01" displayName="Hospital Planning Infrastructure Maintenance Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d49e40-f179-11e3-b68f-080027b12d01" displayName="Hospital Security Guard" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45804-f179-11e3-b68f-080027b12d01" displayName="Hostel Warden" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40f98-f179-11e3-b68f-080027b12d01" displayName="House Keeper" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2f522-f179-11e3-b68f-080027b12d01" displayName="Human Resources Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2fe1e-f179-11e3-b68f-080027b12d01" displayName="Human Resources Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d551aa-f179-11e3-b68f-080027b12d01" displayName="Human Resources Officer Senior/principal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e94e-f179-11e3-b68f-080027b12d01" displayName="Infomation Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e78c-f179-11e3-b68f-080027b12d01" displayName="Information Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55f6a-f179-11e3-b68f-080027b12d01" displayName="Information Technology Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53d32-f179-11e3-b68f-080027b12d01" displayName="Infrastructure Maintenance Officer(administrative Officer)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40ee4-f179-11e3-b68f-080027b12d01" displayName="Institutional Domestic Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d38dd4-f179-11e3-b68f-080027b12d01" displayName="Intergrated Management Of Child Illness Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4094e-f179-11e3-b68f-080027b12d01" displayName="Intergrated Management Of Childhood Illness Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30fee-f179-11e3-b68f-080027b12d01" displayName="Internal Auditor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34068-f179-11e3-b68f-080027b12d01" displayName="Junior Registrar" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10dc0-f179-11e3-b68f-080027b12d01" displayName="Junior Resident Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45016-f179-11e3-b68f-080027b12d01" displayName="Laboratory Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b696-f179-11e3-b68f-080027b12d01" displayName="Laboratory Hand 11" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d46600-f179-11e3-b68f-080027b12d01" displayName="Laboratory Handy Senior" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d443aa-f179-11e3-b68f-080027b12d01" displayName="Laboratory/technical Assistant 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4168c-f179-11e3-b68f-080027b12d01" displayName="Lady Warden" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d46fb0-f179-11e3-b68f-080027b12d01" displayName="Laundry Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d43806-f179-11e3-b68f-080027b12d01" displayName="Laundry Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d41452-f179-11e3-b68f-080027b12d01" displayName="Laundry Superintendend Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d432b6-f179-11e3-b68f-080027b12d01" displayName="Laundry Superitentendent 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5480e-f179-11e3-b68f-080027b12d01" displayName="Legislation Officer " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d45304-f179-11e3-b68f-080027b12d01" displayName="Leprosy Scout" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30f3a-f179-11e3-b68f-080027b12d01" displayName="Librarian" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55524-f179-11e3-b68f-080027b12d01" displayName="Librarian Senior/principal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d43f4a-f179-11e3-b68f-080027b12d01" displayName="Linen Checker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d77c00-f179-11e3-b68f-080027b12d01" displayName="Linen Cheker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a806-f179-11e3-b68f-080027b12d01" displayName="Linen Controller" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d417fe-f179-11e3-b68f-080027b12d01" displayName="Linen Room Controller 2" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e2e8-f179-11e3-b68f-080027b12d01" displayName="Linen Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d774f8-f179-11e3-b68f-080027b12d01" displayName="Logistics And Adminstration Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d793de-f179-11e3-b68f-080027b12d01" displayName="Logistics Tb Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0ecc8-f179-11e3-b68f-080027b12d01" displayName="Machine Operator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3592c-f179-11e3-b68f-080027b12d01" displayName="Maintenance Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d38014-f179-11e3-b68f-080027b12d01" displayName="Manager ( Epi)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d77d7c-f179-11e3-b68f-080027b12d01" displayName="Manager Internal Audit" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1242c-f179-11e3-b68f-080027b12d01" displayName="Matron 111" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3a954-f179-11e3-b68f-080027b12d01" displayName="Matron I" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e04e-f179-11e3-b68f-080027b12d01" displayName="Matron Ii" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f592-f179-11e3-b68f-080027b12d01" displayName="Maxillo Facial Surgeon" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33aa0-f179-11e3-b68f-080027b12d01" displayName="Medical  Social Worker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d37e0c-f179-11e3-b68f-080027b12d01" displayName="Medical Health Services Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d142b8-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36af2-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Scientist/ Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1238c-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Scientist/ Technologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4418e-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Techncian" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d364e4-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Technologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36624-f179-11e3-b68f-080027b12d01" displayName="Medical Laboratory Technologist ( Graduate)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d336c2-f179-11e3-b68f-080027b12d01" displayName="Medical Officer Of Health" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e82e-f179-11e3-b68f-080027b12d01" displayName="Medical Officer Of Health (epid-disease Control)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3ecfc-f179-11e3-b68f-080027b12d01" displayName="Medical Officer Of Health (maternal &amp; Child Health)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34fae-f179-11e3-b68f-080027b12d01" displayName="Medical Records Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3518e-f179-11e3-b68f-080027b12d01" displayName="Medical Records Officer Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33b7c-f179-11e3-b68f-080027b12d01" displayName="Medical Research Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3506c-f179-11e3-b68f-080027b12d01" displayName="Medical Research Officer Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d375a6-f179-11e3-b68f-080027b12d01" displayName="Medical Secretary" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d51398-f179-11e3-b68f-080027b12d01" displayName="Medical Social Worker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d32920-f179-11e3-b68f-080027b12d01" displayName="Medical Specialist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d32b5a-f179-11e3-b68f-080027b12d01" displayName="Medical Sup Ii-medical Specialist Personal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33cc6-f179-11e3-b68f-080027b12d01" displayName="Medical Superintendent" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d118b0-f179-11e3-b68f-080027b12d01" displayName="Medical Superitendent Ii/iii" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d781be-f179-11e3-b68f-080027b12d01" displayName="Mental Health Deputy Director" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7827c-f179-11e3-b68f-080027b12d01" displayName="Mental Health Services Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d510be-f179-11e3-b68f-080027b12d01" displayName="Microbiology Reference Laboratory Services Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f2e0-f179-11e3-b68f-080027b12d01" displayName="Microscopist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78a92-f179-11e3-b68f-080027b12d01" displayName="Minister" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d12abc-f179-11e3-b68f-080027b12d01" displayName="Minister&apos;s Driver" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d450ca-f179-11e3-b68f-080027b12d01" displayName="Mortuary Attendant 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44012-f179-11e3-b68f-080027b12d01" displayName="Mortuary Attendant 11" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4a5ca-f179-11e3-b68f-080027b12d01" displayName="Mortuary Attendant 11/111" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7acd4-f179-11e3-b68f-080027b12d01" displayName="Mortuary Attendent 1/11/111" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d731be-f179-11e3-b68f-080027b12d01" displayName="Mortuary Hands" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d41cae-f179-11e3-b68f-080027b12d01" displayName="Mortuary Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d386ea-f179-11e3-b68f-080027b12d01" displayName="Non Communicable Disease Control Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b7e0-f179-11e3-b68f-080027b12d01" displayName="Nurse Aid" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f826-f179-11e3-b68f-080027b12d01" displayName="Nurse Aide" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d511cc-f179-11e3-b68f-080027b12d01" displayName="Nurse Training And Adminstration Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3be9e-f179-11e3-b68f-080027b12d01" displayName="Nursing Tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5072c-f179-11e3-b68f-080027b12d01" displayName="Nutrition Emergency Preparedness And Surveillance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e828-f179-11e3-b68f-080027b12d01" displayName="Nutrition Intervention Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3879e-f179-11e3-b68f-080027b12d01" displayName="Nutrition Intervention Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d50a06-f179-11e3-b68f-080027b12d01" displayName="Nutrition Logistics Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3074c-f179-11e3-b68f-080027b12d01" displayName="Nutritionist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5083a-f179-11e3-b68f-080027b12d01" displayName="Nutritionist (training Officer)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e4c8-f179-11e3-b68f-080027b12d01" displayName="Occupational  Trainer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d77e26-f179-11e3-b68f-080027b12d01" displayName="Occupational Health And Injury Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d77f7a-f179-11e3-b68f-080027b12d01" displayName="Occupational Health And Injury Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d41ab0-f179-11e3-b68f-080027b12d01" displayName="Occupational Therapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53b02-f179-11e3-b68f-080027b12d01" displayName="Office Orderlies" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d47654-f179-11e3-b68f-080027b12d01" displayName="Office Orderly" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7874a-f179-11e3-b68f-080027b12d01" displayName="Operations Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40b42-f179-11e3-b68f-080027b12d01" displayName="Orderly Steward 11" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b9c0-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Assistant 11" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55d9e-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Assistant Fitter/ Sec" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11efa-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Boot Maker" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3ddfc-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d79898-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Technologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35314-f179-11e3-b68f-080027b12d01" displayName="Orthopaedic Technologist- (diploma)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ecce-f179-11e3-b68f-080027b12d01" displayName="Orthopeadic Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d37254-f179-11e3-b68f-080027b12d01" displayName="Painter" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d14d9e-f179-11e3-b68f-080027b12d01" displayName="Paralegal Clerk" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3cc40-f179-11e3-b68f-080027b12d01" displayName="Pathologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34bda-f179-11e3-b68f-080027b12d01" displayName="Pc Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53fda-f179-11e3-b68f-080027b12d01" displayName="Performance Monitoring And Evaluation" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4a2be-f179-11e3-b68f-080027b12d01" displayName="Personal Assistant " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36cc8-f179-11e3-b68f-080027b12d01" displayName="Pharmaceutical Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36d86-f179-11e3-b68f-080027b12d01" displayName="Pharmaceutical Technician Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33d98-f179-11e3-b68f-080027b12d01" displayName="Pharmacist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4c852-f179-11e3-b68f-080027b12d01" displayName="Pharmacist Senior/principal" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e15c-f179-11e3-b68f-080027b12d01" displayName="Pharmacist Senior/principal (training Officer)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e328-f179-11e3-b68f-080027b12d01" displayName="Pharmacy Cadet" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4dcac-f179-11e3-b68f-080027b12d01" displayName="Pharmacy Logistics And Research Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4de82-f179-11e3-b68f-080027b12d01" displayName="Pharmacy Logistics And Research Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7848e-f179-11e3-b68f-080027b12d01" displayName="Pharmacy Stores Controller" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10226-f179-11e3-b68f-080027b12d01" displayName="Pharmacy Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30b2a-f179-11e3-b68f-080027b12d01" displayName="Physicist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d33fa0-f179-11e3-b68f-080027b12d01" displayName="Physicist/ Chief" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3770e-f179-11e3-b68f-080027b12d01" displayName="Physiotherapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4fe12-f179-11e3-b68f-080027b12d01" displayName="Physiotherapy /occupational/tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d54b92-f179-11e3-b68f-080027b12d01" displayName="Planning And Donor Coordination Officer " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d104e2-f179-11e3-b68f-080027b12d01" displayName="Plumber" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d30d32-f179-11e3-b68f-080027b12d01" displayName="Pmtct Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4d4c8-f179-11e3-b68f-080027b12d01" displayName="Port Health Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0c9f0-f179-11e3-b68f-080027b12d01" displayName="Port Health Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0d36e-f179-11e3-b68f-080027b12d01" displayName="Port Health Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3b930-f179-11e3-b68f-080027b12d01" displayName="Primary  Care  Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d783c6-f179-11e3-b68f-080027b12d01" displayName="Primary Health Care Worker Trainer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11db0-f179-11e3-b68f-080027b12d01" displayName="Principal Director Curative" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2f766-f179-11e3-b68f-080027b12d01" displayName="Principal Director Planning And Evaluation" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d12d00-f179-11e3-b68f-080027b12d01" displayName="Principal Director Preventive" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f83c-f179-11e3-b68f-080027b12d01" displayName="Principal Environmental Health Officer (diploma)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5536c-f179-11e3-b68f-080027b12d01" displayName="Principal Executive Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4f52a-f179-11e3-b68f-080027b12d01" displayName="Principal Medical Research Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3bd2c-f179-11e3-b68f-080027b12d01" displayName="Principal Nursing Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c254-f179-11e3-b68f-080027b12d01" displayName="Principal Physiotherapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3b778-f179-11e3-b68f-080027b12d01" displayName="Principal State Certified Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f952-f179-11e3-b68f-080027b12d01" displayName="Principal Tutor Radiography" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2ede8-f179-11e3-b68f-080027b12d01" displayName="Private Secretary 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4a8ae-f179-11e3-b68f-080027b12d01" displayName="Procurement Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3fbd4-f179-11e3-b68f-080027b12d01" displayName="Provincial Child Care Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3fd64-f179-11e3-b68f-080027b12d01" displayName="Provincial Child Welfare Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f544-f179-11e3-b68f-080027b12d01" displayName="Provincial Environmental Health Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ee90-f179-11e3-b68f-080027b12d01" displayName="Provincial Epi Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ef94-f179-11e3-b68f-080027b12d01" displayName="Provincial Epidemiology/disease Control Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f1ac-f179-11e3-b68f-080027b12d01" displayName="Provincial Health Information Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3eec8-f179-11e3-b68f-080027b12d01" displayName="Provincial Health Information Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4f19c-f179-11e3-b68f-080027b12d01" displayName="Provincial Health Promotion Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4000c-f179-11e3-b68f-080027b12d01" displayName="Provincial Health Services Administrator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e9fa-f179-11e3-b68f-080027b12d01" displayName="Provincial Hiv /aids/sti/tb Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3ebc6-f179-11e3-b68f-080027b12d01" displayName="Provincial Malaria /epidemic Diseases Control Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55088-f179-11e3-b68f-080027b12d01" displayName="Provincial Maternal &amp; Child Health Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d316-f179-11e3-b68f-080027b12d01" displayName="Provincial Maternal And Child Welfare Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d338e8-f179-11e3-b68f-080027b12d01" displayName="Provincial Medical Director" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f6fc-f179-11e3-b68f-080027b12d01" displayName="Provincial Nursing Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f378-f179-11e3-b68f-080027b12d01" displayName="Provincial Nutritionist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3f094-f179-11e3-b68f-080027b12d01" displayName="Provincial Pharmacist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3fa08-f179-11e3-b68f-080027b12d01" displayName="Provincial Primary Health Care Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4030e-f179-11e3-b68f-080027b12d01" displayName="Provincial Tb Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d78d76-f179-11e3-b68f-080027b12d01" displayName="Provincial Therapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a176-f179-11e3-b68f-080027b12d01" displayName="Psychiatric Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7b152-f179-11e3-b68f-080027b12d01" displayName="Public Health Surveillance Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3a4f4-f179-11e3-b68f-080027b12d01" displayName="Public Relations Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d10e-f179-11e3-b68f-080027b12d01" displayName="Quality Assurance  Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d53ee0-f179-11e3-b68f-080027b12d01" displayName="Quality Assurance Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3d53c-f179-11e3-b68f-080027b12d01" displayName="Radiation Protection Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35d32-f179-11e3-b68f-080027b12d01" displayName="Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d5333c-f179-11e3-b68f-080027b12d01" displayName="Rapid Disease Epi Surveillance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d388e8-f179-11e3-b68f-080027b12d01" displayName="Rapid Disease Epi Survelliance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0eeda-f179-11e3-b68f-080027b12d01" displayName="Receptionist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3dbf4-f179-11e3-b68f-080027b12d01" displayName="Records  And Information Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2e4d8-f179-11e3-b68f-080027b12d01" displayName="Records And Infor Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2e942-f179-11e3-b68f-080027b12d01" displayName="Records And Infor Assistant - Diploma" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d55c9a-f179-11e3-b68f-080027b12d01" displayName="Records And Information Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2e712-f179-11e3-b68f-080027b12d01" displayName="Records And Information Supervisor (diploma)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c538-f179-11e3-b68f-080027b12d01" displayName="Registered" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10712-f179-11e3-b68f-080027b12d01" displayName="Registered General Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d114c8-f179-11e3-b68f-080027b12d01" displayName="Registrars Snr" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0fcc2-f179-11e3-b68f-080027b12d01" displayName="Registry Classifier / Clerk" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2e032-f179-11e3-b68f-080027b12d01" displayName="Registry Clerk/classifier" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2e65e-f179-11e3-b68f-080027b12d01" displayName="Registry Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3add2-f179-11e3-b68f-080027b12d01" displayName="Rehab Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d500f6-f179-11e3-b68f-080027b12d01" displayName="Rehabilitation  Tech  Tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d48450-f179-11e3-b68f-080027b12d01" displayName="Rehabilitation Assistant Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ff16-f179-11e3-b68f-080027b12d01" displayName="Rehabilitation Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7773c-f179-11e3-b68f-080027b12d01" displayName="Reproductive Health Services Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36912-f179-11e3-b68f-080027b12d01" displayName="Scientific Laboratory Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d140ce-f179-11e3-b68f-080027b12d01" displayName="Scn" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d462b8-f179-11e3-b68f-080027b12d01" displayName="Seamstress" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f4de-f179-11e3-b68f-080027b12d01" displayName="Secretary For Health And Child Care" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4a0d4-f179-11e3-b68f-080027b12d01" displayName="Security Guard" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d116d0-f179-11e3-b68f-080027b12d01" displayName="Security Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d13a20-f179-11e3-b68f-080027b12d01" displayName="Senior Ambulance Driver" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d377c2-f179-11e3-b68f-080027b12d01" displayName="Senior Clinical Nursing Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d308fa-f179-11e3-b68f-080027b12d01" displayName="Senior Creche Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d2f02c-f179-11e3-b68f-080027b12d01" displayName="Senior Executive  Assistant (private Secretary 1 Hnd)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4faca-f179-11e3-b68f-080027b12d01" displayName="Senior Field Orderly" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d46448-f179-11e3-b68f-080027b12d01" displayName="Senior Field Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d324d4-f179-11e3-b68f-080027b12d01" displayName="Senior Government Dental Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ad68-f179-11e3-b68f-080027b12d01" displayName="Senior Hand " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0d9c2-f179-11e3-b68f-080027b12d01" displayName="Senior Hospital Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d334f6-f179-11e3-b68f-080027b12d01" displayName="Senior House Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d148c6-f179-11e3-b68f-080027b12d01" displayName="Senior Instructor Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d13926-f179-11e3-b68f-080027b12d01" displayName="Senior Laundry Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ae3a-f179-11e3-b68f-080027b12d01" displayName="Senior Office Orderly" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d341c6-f179-11e3-b68f-080027b12d01" displayName="Senior Registrar" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3ce3e-f179-11e3-b68f-080027b12d01" displayName="Senior Resident Medical Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c614-f179-11e3-b68f-080027b12d01" displayName="Senior Sister" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d411aa-f179-11e3-b68f-080027b12d01" displayName="Senior Stores Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7aa18-f179-11e3-b68f-080027b12d01" displayName="Senior Tutor Radiography" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b056-f179-11e3-b68f-080027b12d01" displayName="Sewing Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4afa2-f179-11e3-b68f-080027b12d01" displayName="Sewing Assistant (personal To Holder)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7802e-f179-11e3-b68f-080027b12d01" displayName="Sewing Superviser" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44256-f179-11e3-b68f-080027b12d01" displayName="Sewing Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35468-f179-11e3-b68f-080027b12d01" displayName="Shopfitter" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0cdba-f179-11e3-b68f-080027b12d01" displayName="Sister Community" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c772-f179-11e3-b68f-080027b12d01" displayName="Sister General Graduate / Theatre Anaesthetics" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c826-f179-11e3-b68f-080027b12d01" displayName="Sister In Charge" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0cbda-f179-11e3-b68f-080027b12d01" displayName="Sister In Charge Community" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c97a-f179-11e3-b68f-080027b12d01" displayName="Sister In Charge Theatre Anaesthetics" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d314b2-f179-11e3-b68f-080027b12d01" displayName="Snr Clinical Psychologist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0e35e-f179-11e3-b68f-080027b12d01" displayName="Snr/ Principal Conditions Of Service Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0f0e2-f179-11e3-b68f-080027b12d01" displayName="Snr/prin Legal Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d72f0c-f179-11e3-b68f-080027b12d01" displayName="Software Programme Analyst" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11054-f179-11e3-b68f-080027b12d01" displayName="Specialist Consultant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d129e0-f179-11e3-b68f-080027b12d01" displayName="Specialist- Head Of Department" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3c128-f179-11e3-b68f-080027b12d01" displayName="Speech / Occupational Therapist" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4d2de-f179-11e3-b68f-080027b12d01" displayName="State Certified Laboratory Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4eb5c-f179-11e3-b68f-080027b12d01" displayName="State Certified Medical Laboratory Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0fd4e-f179-11e3-b68f-080027b12d01" displayName="State Certified Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d43496-f179-11e3-b68f-080027b12d01" displayName="Steward /security" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d790fa-f179-11e3-b68f-080027b12d01" displayName="Sti, Hiv And Aids Prevenion Care Manager " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d38208-f179-11e3-b68f-080027b12d01" displayName="Sti,hiv &amp; Aids Prevention  Care Managercer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d418a8-f179-11e3-b68f-080027b12d01" displayName="Storeman" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3e6d0-f179-11e3-b68f-080027b12d01" displayName="Stores Assistant 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44dc8-f179-11e3-b68f-080027b12d01" displayName="Stores Assistant 11" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4bc90-f179-11e3-b68f-080027b12d01" displayName="Stores Assistant 111" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10e56-f179-11e3-b68f-080027b12d01" displayName="Stores Controller( Pharmacy)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4776c-f179-11e3-b68f-080027b12d01" displayName="Stores Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3572e-f179-11e3-b68f-080027b12d01" displayName="Stores Officer 2" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d549e4-f179-11e3-b68f-080027b12d01" displayName="Strategy And Policy Development Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3b9da-f179-11e3-b68f-080027b12d01" displayName="Student Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10442-f179-11e3-b68f-080027b12d01" displayName="Student Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d41d4e-f179-11e3-b68f-080027b12d01" displayName="Supervisor 1" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b272-f179-11e3-b68f-080027b12d01" displayName="Supervisor Assistant " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d41bf0-f179-11e3-b68f-080027b12d01" displayName="Supervisor(health)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52e8c-f179-11e3-b68f-080027b12d01" displayName="Surveillance Assistant " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d52824-f179-11e3-b68f-080027b12d01" displayName="Surveillance Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10bb8-f179-11e3-b68f-080027b12d01" displayName="Switch Board Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d50bc8-f179-11e3-b68f-080027b12d01" displayName="Systems Administrator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40c14-f179-11e3-b68f-080027b12d01" displayName="Tailor 1/ii" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1320a-f179-11e3-b68f-080027b12d01" displayName="Tailor Asst" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7930c-f179-11e3-b68f-080027b12d01" displayName="Tb Control Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7a090-f179-11e3-b68f-080027b12d01" displayName="Tb Coodinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d50ee8-f179-11e3-b68f-080027b12d01" displayName="Tb Reference Laboratory Services Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35b2a-f179-11e3-b68f-080027b12d01" displayName="Technical Assistant (laboratory)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d34da6-f179-11e3-b68f-080027b12d01" displayName="Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d412f4-f179-11e3-b68f-080027b12d01" displayName="Theatre Disposal Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d11e6e-f179-11e3-b68f-080027b12d01" displayName="Theatre Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0ea02-f179-11e3-b68f-080027b12d01" displayName="To Delete" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d51aa0-f179-11e3-b68f-080027b12d01" displayName="Traditional Medicine Research And Information Coordinator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d39694-f179-11e3-b68f-080027b12d01" displayName="Trainee Eeg, Ecg Technician " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d47e38-f179-11e3-b68f-080027b12d01" displayName="Trainee Enveronmental Health Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d40142-f179-11e3-b68f-080027b12d01" displayName="Trainee Environmental Health Officer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4670e-f179-11e3-b68f-080027b12d01" displayName="Trainee Ids" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d50ce0-f179-11e3-b68f-080027b12d01" displayName="Trainee Institutional Domestic Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36836-f179-11e3-b68f-080027b12d01" displayName="Trainee Med/ Vet Lab. Technologist(non Gradute)" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4f8f4-f179-11e3-b68f-080027b12d01" displayName="Trainee Midwife" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10866-f179-11e3-b68f-080027b12d01" displayName="Trainee Orthopaedic Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4e4e0-f179-11e3-b68f-080027b12d01" displayName="Trainee Pharmaceutical Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3bb38-f179-11e3-b68f-080027b12d01" displayName="Trainee Primary Care Nurse" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d35bde-f179-11e3-b68f-080027b12d01" displayName="Trainee Radiographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4b1a0-f179-11e3-b68f-080027b12d01" displayName="Trainee State Cert. Lab. Assistant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d1132e-f179-11e3-b68f-080027b12d01" displayName="Trainee State Certified Medical Laboratory Technician" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d36b9c-f179-11e3-b68f-080027b12d01" displayName="Trainee State Certified Medical Laboratory Technician Trainee" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d7ac20-f179-11e3-b68f-080027b12d01" displayName="Trainee X Ray Operator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d3bdfe-f179-11e3-b68f-080027b12d01" displayName="Tutor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d155f0-f179-11e3-b68f-080027b12d01" displayName="Typist/stenographer" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d488ec-f179-11e3-b68f-080027b12d01" displayName="Waiter" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d419fc-f179-11e3-b68f-080027b12d01" displayName="Ward Domestic Supervisor" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4cfe6-f179-11e3-b68f-080027b12d01" displayName="Water And Sanitation Manager/waste  Manager" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4ca82-f179-11e3-b68f-080027b12d01" displayName="Water Sanitation And Waste Management Coordinator " codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d10faa-f179-11e3-b68f-080027b12d01" displayName="Welder" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4be66-f179-11e3-b68f-080027b12d01" displayName="Workshop Hand" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d0d72e-f179-11e3-b68f-080027b12d01" displayName="X-ray Operator" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d4bf74-f179-11e3-b68f-080027b12d01" displayName="Xray Attendant" codeSystem="mohcc.gov.zw"></Concept>
+        <Concept code="c9d44468-f179-11e3-b68f-080027b12d01" displayName="Xray Operator Trainee" codeSystem="mohcc.gov.zw"></Concept>
+    </ConceptList>
+</ValueSet>

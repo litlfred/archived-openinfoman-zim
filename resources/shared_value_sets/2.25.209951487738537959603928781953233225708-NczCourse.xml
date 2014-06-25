@@ -1,0 +1,27 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.209951487738537959603928781953233225708" version="1" displayName="NczCourse">
+    <ConceptList>
+        <Concept code="22caaab2-c155-11e3-8e8c-009c02998f38" displayName="BACHELOR OF SCIENCE DEGREE" codeSystem="NCZ"></Concept>
+        <Concept code="22cab2fa-c155-11e3-8e8c-009c02998f38" displayName="CLINICAL NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22caa120-c155-11e3-8e8c-009c02998f38" displayName="COMMUNITY NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22ca969e-c155-11e3-8e8c-009c02998f38" displayName="GENERAL NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22caa94a-c155-11e3-8e8c-009c02998f38" displayName="INTENSIVE CARE NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22caac10-c155-11e3-8e8c-009c02998f38" displayName="MASTERS OF SCIENCE" codeSystem="NCZ"></Concept>
+        <Concept code="22ca9e46-c155-11e3-8e8c-009c02998f38" displayName="MIDWIFERY" codeSystem="NCZ"></Concept>
+        <Concept code="22cab8cc-c155-11e3-8e8c-009c02998f38" displayName="MIDWIFERY ONLY" codeSystem="NCZ"></Concept>
+        <Concept code="22caa530-c155-11e3-8e8c-009c02998f38" displayName="NURSE ANAESTHETIST" codeSystem="NCZ"></Concept>
+        <Concept code="22caad78-c155-11e3-8e8c-009c02998f38" displayName="NURSE EDUCATORS" codeSystem="NCZ"></Concept>
+        <Concept code="22caa7ec-c155-11e3-8e8c-009c02998f38" displayName="NURSING ADMINISTRATION" codeSystem="NCZ"></Concept>
+        <Concept code="22caa68e-c155-11e3-8e8c-009c02998f38" displayName="OPERATING THEATRE NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22caaed6-c155-11e3-8e8c-009c02998f38" displayName="OPHTHALMIC NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22cab034-c155-11e3-8e8c-009c02998f38" displayName="PAEDIATRIC NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22cab9e4-c155-11e3-8e8c-009c02998f38" displayName="PEADIATRIC NURSE ONLY" codeSystem="NCZ"></Concept>
+        <Concept code="22ca9cde-c155-11e3-8e8c-009c02998f38" displayName="PRIMARY CARE NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22caa3be-c155-11e3-8e8c-009c02998f38" displayName="PSYCHIATRIC NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22cab958-c155-11e3-8e8c-009c02998f38" displayName="PSYCHIATRIC NURSE ONLY" codeSystem="NCZ"></Concept>
+        <Concept code="22cab836-c155-11e3-8e8c-009c02998f38" displayName="RENAL NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22cab192-c155-11e3-8e8c-009c02998f38" displayName="STATE CERTIFIED MATERNITY NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22ca99d2-c155-11e3-8e8c-009c02998f38" displayName="STATE CERTIFIED NURSE" codeSystem="NCZ"></Concept>
+        <Concept code="22ca9fae-c155-11e3-8e8c-009c02998f38" displayName="STATE CERTIFIED NURSE FOR MENTAL HANDICAP" codeSystem="NCZ"></Concept>
+        <Concept code="22ca9b76-c155-11e3-8e8c-009c02998f38" displayName="STATE CERTIFIED TRAUMATOLOGY NURSE" codeSystem="NCZ"></Concept>
+    </ConceptList>
+</ValueSet>

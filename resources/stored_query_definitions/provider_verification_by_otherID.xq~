@@ -1,0 +1,19 @@
+declare module namespace tdr = "urn:hitrac.org.zw:stored_query:provider_verification";
+declare element namespace   csd = "urn:ihe:iti:csd:2013";
+declare element namespace h = "http://www.w3.org/1999/xhtml";
+declare variable $careServicesRequest as item() external;
+
+(: 
+   The query will be executed against the root element of the CSD document.
+    
+   The dynamic context of this query has $careServicesRequest set to contain any of the search 
+   and limit paramaters as sent by the Service Finder
+:) 
+
+
+declare function tdr:get_provider_using_otherId($otherId)  {
+
+  
+}
+
+

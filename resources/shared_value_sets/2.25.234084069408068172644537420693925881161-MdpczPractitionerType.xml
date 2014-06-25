@@ -1,0 +1,36 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.234084069408068172644537420693925881161" version="1" displayName="MdpczPractitionerType">
+    <ConceptList>
+        <Concept code="6e6233a1-5f20-4147-a915-12bb9893ab43" displayName="Specialist Psychiatrists" codeSystem="MDPCZ"></Concept>
+        <Concept code="33f54c4a-b26e-4004-9cc0-54249c3956c6" displayName="Specialist Neuro Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="e4b9bb43-7026-4f69-85ac-7af7030f7267" displayName="Specialist Orthodontists" codeSystem="MDPCZ"></Concept>
+        <Concept code="1fb62ede-2b29-41d4-b348-91e8e5dac50e" displayName="Specialist Periodontists" codeSystem="MDPCZ"></Concept>
+        <Concept code="069494c7-c2eb-4ed4-98ea-678c7b115a8a" displayName="Specialist Ophthalmologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="066a7d7c-fb51-4113-a1a2-c840636f0574" displayName="Specialist Cardio Vascular And Thoracic Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="2be392e3-5e1c-4391-8d25-eb935330125d" displayName="Specialist Haematologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="a2b5ca82-f45b-4e71-9fd7-28ab5cfa667c" displayName="Specialist Obstetrician and Gynaecologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="a73922b8-019c-4216-887c-f1c632d2a37f" displayName="Specialist Orthopaedic Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="855415c4-6db8-4685-851e-1b666365eed2" displayName="Specialist Otorhinolaryngologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="0e29aa04-63df-40d8-810a-99e22c610d86" displayName="Specialist Pathologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="06e5df59-35c3-478e-9bc8-d7d16c80b1c5" displayName="Specialist Plastic And Reconstructive Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="8eda5f44-9ef3-425e-94b1-c5c3462404c1" displayName="Specialist Urologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="f5ed54e0-2b81-4b3c-8666-c677956160bc" displayName="Specialist Venereologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="b40d85cc-fff7-4549-9674-46b939af46ef" displayName="Specialist Radiologists(Diagnostic)" codeSystem="MDPCZ"></Concept>
+        <Concept code="5cb7cf5d-f8db-4a0d-ba9a-5e14fab011ce" displayName="Specialist Radiotherapists and Oncologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="2c3da23c-bf0a-4816-b286-071448cd7c76" displayName="Medical Practitioners" codeSystem="MDPCZ"></Concept>
+        <Concept code="0fc9f429-e641-4bc5-a98c-7440f3d00d35" displayName="Dental Practitioners" codeSystem="MDPCZ"></Concept>
+        <Concept code="a7e55943-86cf-4792-8e91-20376ee37f9a" displayName="Dental Therapists" codeSystem="MDPCZ"></Concept>
+        <Concept code="658f8856-8d26-4171-b44d-b14b5d500afa" displayName="Dental Technicians" codeSystem="MDPCZ"></Concept>
+        <Concept code="4221210f-5f07-4b23-957e-59c111cd89a5" displayName="Students" codeSystem="MDPCZ"></Concept>
+        <Concept code="133e190c-5e9e-46ba-9244-c74f6d7b9634" displayName="Interns" codeSystem="MDPCZ"></Concept>
+        <Concept code="d127faee-ff8e-4356-b0cb-0c6041ce80b1" displayName="Dental Hygienists" codeSystem="MDPCZ"></Concept>
+        <Concept code="779f923b-6bc3-4f4d-8e6b-ccbaab8fba61" displayName="Specialist Dermatologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="c0fbc188-dba3-47c0-92a2-bbf19e0f3e83" displayName="Specialist Maxillo- Facial and Oral Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="c1cdc9ea-e8c9-41cc-8760-29619767d312" displayName="Specialist Surgeons" codeSystem="MDPCZ"></Concept>
+        <Concept code="3307a28f-869f-4456-8161-3438da50a03a" displayName="Specialist Physicians" codeSystem="MDPCZ"></Concept>
+        <Concept code="af6c46a2-0c5f-41c0-86e9-652a9046b7ba" displayName="Specialist Paediatricians" codeSystem="MDPCZ"></Concept>
+        <Concept code="bba5fd87-6ade-481c-bd67-de1439a8a52d" displayName="Specialist Anaesthetists" codeSystem="MDPCZ"></Concept>
+        <Concept code="e3cb8455-ea33-4630-ac1b-bc0b116e3b6f" displayName="Specialist Community Physicians" codeSystem="MDPCZ"></Concept>
+        <Concept code="39aa65a7-cb75-4364-ad50-3ff6a5ed9f68" displayName="Specialist Clinical Immunologists" codeSystem="MDPCZ"></Concept>
+        <Concept code="1e075456-0b3b-4697-bcda-f60cf8ae7c1c" displayName="Dental Students" codeSystem="MDPCZ"></Concept>
+    </ConceptList>
+</ValueSet>
