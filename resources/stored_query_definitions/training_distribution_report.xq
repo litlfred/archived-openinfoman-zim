@@ -1,4 +1,3 @@
-declare module namespace tdr = "urn:hitrac.org.zw:stored_query:training_distribution_report";
 declare element namespace   csd = "urn:ihe:iti:csd:2013";
 declare element namespace h = "http://www.w3.org/1999/xhtml";
 declare variable $careServicesRequest as item() external;
@@ -11,10 +10,28 @@ declare variable $careServicesRequest as item() external;
 :) 
 
 
+
+(:lookup current deployment of a provider :)
+let $get_current_deployment_province := function($provider)  {
+  let $facs := $provider/csd:facilities/csd:facility
+  let $start_dates :=  distinct-values($facs/csd:extension[@type='deployment_details' and @oid='2.25.62572576096234591446887698759906520253']/start_date)
+  (:maybe no start_date data was uploaded yet:)
+  let $fac:= if (count($start_dates) = 0) then
+    $facs[1]
+  else 
+    let $max_start_date := max($start_dates)
+    return ($facs[ ./csd:extension[@type='deployment_details' and @oid='2.25.62572576096234591446887698759906520253' and ./start_date = $max_start_date]])[1]
+   (:now have the most current facility (hopefully).  now lookup province:)
+  let $fac_record := /csd:CSD/csd:facilityDirectory/csd:facility[@oid = $fac/@oid]
+  let $province := ($fac_record/csd:address[@type='PHYSICAL']/csd:addressLine[@component='PROVINCE']/text())[1]
+  return $province
+}
+
+
 (:
 For a specified training program, get the count of all the health workers with that training program by province for trainings during the given start and end dates   
 :)
-declare function tdr:get_trainings($training_program,$start_date,$end_date) {
+let $get_trainings := function($training_program,$start_date,$end_date) {
   let $all_trainings := /csd:CSD/csd:providerDirectory/csd:provider/csd:extension[@type='in-service-training' and @oid='2.25.62572576096234591446887698759906520253']
   let $training_instances_0:= 
     if ($training_program) then  $all_trainings[./program/text() = $training_program]
@@ -34,28 +51,13 @@ declare function tdr:get_trainings($training_program,$start_date,$end_date) {
     let $instances := $training_instances_2[./program/text() =  $tp]
     let $hws := distinct-values($instances/..) (:same hw may take same program twice:)
     let $provinces := 
-      distinct-values(for $hw in $hws return get_current_deployment_province($hw))
+      distinct-values(for $hw in $hws return $get_current_deployment_province($hw))
     for $province in $provinces 
       let $hws_by_prov := 
          for $hw in $hws 
-	 where get_current_deployment_province($hw) = $province
+	 where $get_current_deployment_province($hw) = $province
       return <tr><td>{$tp}</td><td>{$province}</td><td>{count($hws_by_prov)}</td></tr>
    (:should optimize so don't calculate current province twice :)
-};
-
-declare function tdr:get_current_deployment_province($provider)  {
-  let $facs := $provider/csd:facilities/csd:facility
-  let $start_dates :=  distinct-values($facs/csd:extension[@type='deployment_details' and @oid='2.25.62572576096234591446887698759906520253']/start_date)
-  (:maybe no start_date data was uploaded yet:)
-  let $fac:= if (count($start_dates) = 0) then
-    $facs[1]
-  else 
-    let $max_start_date := max($start_dates)
-    return ($facs[ ./csd:extension[@type='deployment_details' and @oid='2.25.62572576096234591446887698759906520253' and ./start_date = $max_start_date]])[1]
-   (:now have the most current facility (hopefully).  now lookup province:)
-  let $fac_record := /csd:CSD/csd:facilityDirectory/csd:facility[@oid = $fac/@oid]
-  let $province := ($fac_record/csd:address[@type='PHYSICAL']/csd:addressLine[@component='PROVINCE']/text())[1]
-  return $province
 }
 
 
@@ -78,7 +80,7 @@ declare function tdr:get_current_deployment_province($provider)  {
       </h:tr>
       {
 	
-	tdr:get_trainings(
+	$get_trainings(
 	    $careServicesRequest/training_program,
 	    $careServicesRequest/start_date,
 	    $careSericesRequest/end_date) 

@@ -1,0 +1,1684 @@
+<svs:ValueSet xmlns:svs="urn:ihe:iti:svs:2008" xmlns="urn:ihe:iti:svs:2008" id="2.25.62572576096234591446887698759906520253.1" version="2013.07.01" displayName="Dhis Facilities">
+  <svs:ConceptList>
+    <svs:Concept code="Y0hSxhcytz0" displayName="mv ZSA Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N80nErx1IsY" displayName="mv Nyambange Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Tt1gpPLHadg" displayName="ma Mutare Prison Farm Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v36ugriKdqP" displayName="mv Chirogwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ixfqop6Lj7J" displayName="ma Toriro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rFtocyzKceW" displayName="mv Mazuru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EnUWwQqs6vP" displayName="mv Mageza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DgIsJlyh7ei" displayName="ma Chitora Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sXRr6Jh1Ukn" displayName="mv Maranda Sub Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lz7PrWN52YE" displayName="mv Muvava Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nur0AEwM4OY" displayName="ma Munyarari Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vubZWOdIwQU" displayName="ma St Michael's Tanda Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LaAarcpXdJr" displayName="ma Musiriswe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KPkANbubddY" displayName="mv Mandhloro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RNy892dYSXr" displayName="ma Muswera Rural clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vD0cmk3nKr1" displayName="ma Haparari Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kMKIwh4EQPi" displayName="ma Chinyamukwakwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CvwlQZJp9g7" displayName="ma Changazi clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s11E1ddJRAJ" displayName="mv Masvingo Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PQYcMmTvt6L" displayName="ma Claremont Estate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bVyRm1Ji34n" displayName="mc Mount Darwin District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BWHB0AClSm2" displayName="mn Balanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iyiMmbaIa08" displayName="mw Sanyati RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FU7AXdidV0z" displayName="mv Chiredzi ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="R7iT0ozHwhk" displayName="mv Ngorima Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QI6mEC6q6Ge" displayName="mv Mhlanguleni Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="paEcB63wSvW" displayName="mv Mutikizizi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LTctrOQJUYV" displayName="mv Mwenezana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d7fOaS2UsST" displayName="mv Marinda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="R9QcV5vI9ij" displayName="mv Zimuto Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LRrRucSyV0u" displayName="ma Clearwater Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wp2D6uvatyy" displayName="ma Arda Chisumbanje Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jq5ZU3Veftn" displayName="ma Tongogara Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eFmKu8tm7j9" displayName="ma Odzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oGoA3lS8Zu8" displayName="mi Child Welfare Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="z8YBhfH0zfl" displayName="mi Nyamhunga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EWIT0gjbKzw" displayName="mi Kana Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="W4xgmp39E7M" displayName="mi Gweru Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BEFoLFs36HA" displayName="mi Gwarawa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="G679ypcHye5" displayName="mi Malisa Joshepha Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IgWXO6O9cwM" displayName="mi Exchange Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="brQm8hctUbs" displayName="mi Redcliff Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ixb5wH52mNJ" displayName="mi Buchwa Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X8QsJGkQVdg" displayName="mw Nyabira RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mSVazJgwlp8" displayName="mc Takunda clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="t7z7r7sYM2T" displayName="mc Kemutamba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yYhEp4VZzBs" displayName="mc BUCSE Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WEEMtqVtHT7" displayName="mw Chemukute Municipal Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fmMgkv25D5z" displayName="mw Vere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rLYEPsYReMp" displayName="mc Amanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Kv7K3EAEDs8" displayName="mc Chirunya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Pc5yc5tAeNF" displayName="ms Chikwalakwala Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dizbbt1c58H" displayName="mw Ngezi Municipal_Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CyzLGOqW4CZ" displayName="bu Princess Margaret Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f0xKBrZmcn8" displayName="bu Tembi Home Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OZjJKN6uFmQ" displayName="ms Sengezane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="h6WcQ915OrH" displayName="ms Sikhathini Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nr8AGzrBEAa" displayName="ms Makhulela Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mSu42uQEjOs" displayName="ha Western Triangle Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="G6bGAnRpVN3" displayName="ha Mbare PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xyi6WrBmW9s" displayName="me Madimutsa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BPTlzlZSXck" displayName="ma Garamwera Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mM1Xp7OSsOv" displayName="mw Sanyati Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fSmMezXYT0V" displayName="mn Dakamela Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i7kUNSMazUq" displayName="ms Plumtree District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kh6ns6DZgxB" displayName="ms Beula-seula Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wqTGtMBR7VW" displayName="mi Masvori Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SVtVD1Rl6la" displayName="ma Junction Gate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kdjqcumgZK9" displayName="ma Jombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Gx9mi4IpwDI" displayName="mv Nyikavanhu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CuuhL6E9mz8" displayName="ma Gwenzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nI7iCnzqfvW" displayName="ma Nerutanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="H8cEwsCKC4t" displayName="ma Chayamiti Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Aiidz5NIu4q" displayName="ma Chikwakwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N78su57cU07" displayName="ma Martin Forest Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qJJ6I9d7TGu" displayName="ma Gombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pGbz0iYwQQN" displayName="mi Tsungai Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Nbg5jfWxWRm" displayName="ma Nyamukamani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Cc5fCsfiMeA" displayName="ma Chakohwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Knr1EHQbGwh" displayName="ma Tanganda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hSYoXS16XPR" displayName="ma Munyanyi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yEQzNamH3uC" displayName="ma Vengere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yhlaqZWt7N1" displayName="ma Chisengu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AmshadDUFjP" displayName="ma Buhera Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qB4aqkr5Zan" displayName="ma Mudanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rajvxcpGpWt" displayName="ma Tilbury Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="I1aDojYZoGH" displayName="mv G_N Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L7P4zrK5k64" displayName="ma Charter Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NzioLDOMyHi" displayName="ma Bangure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GtuPUhZTkij" displayName="ma Nyanyadzi Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ShBRKNawnxh" displayName="ma Chirozva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WAj0s2JUSP5" displayName="ma Nyahode Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uLmC0kJJ4TQ" displayName="mc Chinehasha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PUNmyNqtxNl" displayName="ma Chikukwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BD1Jfvjv9U2" displayName="ma Madzimbashuro Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bEJ6QvvP0jI" displayName="ma Gunura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vo5ZD5eTTjh" displayName="ma Cashel Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K3ntSeDRPaA" displayName="ma Changazi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="prJwfHo35UK" displayName="ma Chipinge District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eh9v7iWzf12" displayName="ma Chikore Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vkZIaoGo7gn" displayName="ma Ratelshoek Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dudLclDI9eN" displayName="ma Mutepfe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eA9SVqmE5dM" displayName="ma Jersey Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hNoV44tWsEW" displayName="ma Chapanduka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yUZhrtZsDix" displayName="mv Chivi Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f9V9wkQROiw" displayName="ma Mutsvangwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jH46ybtyEXK" displayName="ma Chabata Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HbCkQDFnwXR" displayName="ma Zona Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GSO7OZtivM0" displayName="ma Paidamoyo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dPK4rB0KqA7" displayName="ma Dorowa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FqmwZK7FDnu" displayName="mc Nyamhondoro Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B0IgvxGs1In" displayName="ms Dite Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XHTiVLFtZqs" displayName="me Mufudziwakanaka Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eQC86cRs7RZ" displayName="mi Mavorovondo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nHNI84MVP0n" displayName="mv Samu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L5BRfqu0wvC" displayName="mv Chifedza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qVjkv57fvWb" displayName="ma Bumba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rpR9uJUifr4" displayName="ma Biriwiri Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="moQZ9tvpYvt" displayName="ma Chibuwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Rc6mdgR6jQc" displayName="ma Kopera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jlVfnFAU0q4" displayName="ma Mutiusinazita Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UibBP7xjfCl" displayName="ma Tarka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dQUAeiEDFpr" displayName="ma Shinja Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="caxcNeLNWje" displayName="ma Birchenough Bridge Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TSZXbU6qfEv" displayName="ma Betera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OuEqlnfUt7c" displayName="ma Muchadziya Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WDhJhhGwrLR" displayName="ma Gaza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mY5MuS8ibsq" displayName="ma Musani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z3zy2PuT7Bd" displayName="ma Mombeyarara Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rYxjnRpUUVH" displayName="me Mushipe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m7DEma7WFue" displayName="ma Murwira Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="twU87JyEeTq" displayName="ma Chapwanya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="u4hcDaNwITk" displayName="ma Muzokomba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PxvvQMGB0kx" displayName="ma Roscommon Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CP661imetWS" displayName="ma Dowa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aguTJqpXxlw" displayName="ma Mambwere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ODObWEFaXym" displayName="ma Mushunje Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x34uXkCe1ET" displayName="ma Weya Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ueyLZw0eNlp" displayName="ma Chinyudze Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NsczMWPrPgN" displayName="ma Mubvurungwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wRKMZ42iW4k" displayName="ma Rimbi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="W9sqarekapD" displayName="ma Chinyadza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TKrmz8yHMzD" displayName="ma Chisuma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E7z7msrh2Ti" displayName="mi St Theresa Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="M63d8AhC8z9" displayName="ma Nyazura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="scgHyOj7lEc" displayName="mi Kabanga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HNUnbxZ5OUy" displayName="mv Chirindi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vvIjMN898IB" displayName="ma Makoni Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B3QCBw575UP" displayName="ma Nyagundi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tgEcmH86yG7" displayName="ma Mukuwapasi Rehab Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Flp3vCTgDrH" displayName="ma Chikobvore Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qNM0xkDjd2P" displayName="ma Matotwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pMdVBRDg3Cx" displayName="ma Gwindingwi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XZzgzuU96aH" displayName="ma Rowa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m8DAMDBYPtN" displayName="ma Chipfatsura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JOtTKeBqxSg" displayName="ma Nyahowe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FbavS0QLZNB" displayName="ma Kondo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DC7Rz9IEw9Q" displayName="ma Rusape District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fKZgpZN6GBl" displayName="ma Ringanayi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HUOuqNzR6Aq" displayName="ma Mavhudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nusxH4dUCBX" displayName="ma Maparura Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lzja6Z7gLlI" displayName="ma Bamba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rnPGEznV0Bb" displayName="ma Rukweza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SXQUXZcRPpT" displayName="ma Chitakatira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hKl4NCF7eRF" displayName="ma Mutandahwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CSEp89EQzMI" displayName="ma Gowakowa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sirWV0cn0Tt" displayName="ma Nyahukwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MKcrk2b2e4G" displayName="ma Tsanzaguru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GP1o1ImE8kr" displayName="ma Chinhenga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="o1koaovBpfp" displayName="ma Chiduku Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OHEf3RcLGXc" displayName="ma Chiwere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sjqxywFwPPr" displayName="ma Chipendeke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pGZ8wBu4TVD" displayName="ma Katsenga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TSXhr5Oon4K" displayName="ma Manzvire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZNRqWYbfd15" displayName="ma Nyamidzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bO62hSAscwQ" displayName="ma Burma Valley Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Aw0gLK0LUg8" displayName="ma Matsika Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="giUlAqwyIdB" displayName="ma Era Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bEmIi49FX23" displayName="ma Masvosva Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="arxXEDOObfS" displayName="ma Mahenye Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kebWUmGSpPD" displayName="ma Headlands Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QY6PYYlyHc3" displayName="ma Chikore Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cGLXwIb6qa3" displayName="ma Fombe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xlfJsY2oi9P" displayName="ma Ruchera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Y6f51RnIFBf" displayName="ma Gotekote Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SamIzZkG4Sg" displayName="ma Samaringa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x6fzK3lC31k" displayName="ma Sherukuru Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iVxtmaNOfJy" displayName="ma Elim Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Dh0nRziYm59" displayName="ma Hauna District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UM6l3jCXCeU" displayName="ma Chiadzwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="a53FjMa0Ant" displayName="ma Masasi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nX2wdonp9qm" displayName="ma Bwizi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bUaxaZ6EBrj" displayName="ma Tsonzo Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="O1fCNuvsfI3" displayName="ma Muromo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qRroK8G1NdU" displayName="ma Florida Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="stQ9t1Klkv0" displayName="ma Sagambe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vvbLDyFCjWc" displayName="ma Gutaurare Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TPQQomko5Wj" displayName="ma Nyamombe Camp Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xx6DcGodWk5" displayName="ma Chiwarira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hYY8iQw9VjP" displayName="ma Nyatate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YP2FZTjfV0z" displayName="ma Chikwariro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n5tQj1nHrSp" displayName="ma Sadziwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RVTCuLOTnIC" displayName="ma Dombo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WYa9kpJoGlO" displayName="ma Sakupwanya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="urarwO4MT3n" displayName="ma Zongoro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sWYcABebL7i" displayName="ma Chitaka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m6dVqEaLMBZ" displayName="ma Mavhiza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CjhuibtqJ9P" displayName="ma Gatsi Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ATW7rLLuxXS" displayName="ma Mt Jenya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MZykUUn5dYo" displayName="ma Nyanga District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="G3ZYErhtakQ" displayName="ma Chishingwi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Eej6PK0ibK9" displayName="ma Old Mutare Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qQpBT1CP8eY" displayName="ma Kambudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wV5yUxxZ6tB" displayName="ma Samanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PVqBMEITGZG" displayName="ma Sachisuko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Jj8DNk112jl" displayName="ma Triashill Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rC42Q9ltl0P" displayName="ma Sahumani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LrvqVkxFVsI" displayName="ma Nzvenga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cHV2bfs6fO7" displayName="ma Chavhanga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cdFeP19JNZ0" displayName="ma Avilla Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="taXTBOfQPrt" displayName="ma Nyangui Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VAUEhOQ0M5c" displayName="ma Erin Forest Estate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i955VY3NXvb" displayName="ma Nyarumvurwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AoSdsIPLKWX" displayName="ma Drenane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CQ3o6mYp1Zp" displayName="ma Ngorima Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wsesGoK4rZD" displayName="ma Dora Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qeXexLypgiq" displayName="ma Zumbare Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xvuWT8iCSZz" displayName="ma Zindi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BmQ8l3yqaT3" displayName="ma Marange Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ztdSiPmI0jW" displayName="ma Bakorenhema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E3H6wlL5tV2" displayName="ma Hauna Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k4plSoMGa0V" displayName="ma Imbeza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZEKFKqDov1x" displayName="ma Rupinda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GDqFwDpZc0S" displayName="ma Ngarura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="odZS1HPsm2F" displayName="mc Hoya Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="shdHYR7Vlpv" displayName="mc Bare Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UJhT9GLgCuc" displayName="mc Masoka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VGSf8Penxpm" displayName="mc Gota Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qUajs0mhlbX" displayName="ma Matize Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FH56ZyKYbKB" displayName="mc Makope Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ks9Wt9MTNYA" displayName="mc Christon Bank Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B9rF35hip2q" displayName="mc Shinje Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="y44otghVAx2" displayName="mc Chipuriro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GS1T53HSfL7" displayName="ma Regina Coeli Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GYbuNzdwdUb" displayName="mc Bakasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LlBAE0LCS4k" displayName="mc Chiveso Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eXlDbDvNDwz" displayName="mc Bindura Polyclinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AbJRmrLd9eB" displayName="mc Nyakudya Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gZDrLl5gKNO" displayName="mc Bepura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yWX9wymGipZ" displayName="mc Chadereka Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bcTRZqn3n4R" displayName="mc Mahuwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HVtlH7H8abS" displayName="mc Gonono Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HW0eTeLlega" displayName="ma Nyafaru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WwSWlsfhq7n" displayName="mc Bindura Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PiTrurNdiyL" displayName="mc Nyakapupu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GnrA0A7yXp9" displayName="mc Chiwaridzo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IUEcjWshRkE" displayName="mc Machaya Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eheoVVnQWUz" displayName="mc Chawarura Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JUuZbcHORmk" displayName="mc Ruyamuro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yibYZ6Po0zH" displayName="mc Foothills Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="e4uQ0NpQoba" displayName="mc Dambo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OQucnnhShgt" displayName="ma Nyadowa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HGx2Xw00U3Z" displayName="mc Matsvitsi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QppzgSk1p8u" displayName="mc Chiriseri Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="moj14of8YR4" displayName="mc Mukodzongi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K84eutOBGqf" displayName="mc Nzvimbo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EoPAtQiKTcB" displayName="mc David Nelson Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VXdzwHagVkQ" displayName="mc Hwata Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TrTateV4FpE" displayName="ma Gairezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HumcblmYQdJ" displayName="mc Jingamvura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hJI1t61vx9V" displayName="mc Chikafa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lmAKkT4GV7z" displayName="mc Iron Duke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BCQx0EncS5A" displayName="mc Rosa Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gGHjg0ZF3Rr" displayName="mc Nyava Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lcFNlE8AAkS" displayName="mc Masomo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fRsvqX30akL" displayName="mc Howard Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bs45px6C40Q" displayName="mc Shutu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X7zphE53Ypc" displayName="mc Freda Rebecca Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nNqtwWJ06vF" displayName="mc Kachuta Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JT4xbWNaj7X" displayName="mc Chipadze Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OhbIh1Vr8da" displayName="ma Zangama Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UkLrjAdBsmV" displayName="me Matedza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gqopHUVukuS" displayName="mc Bvochora Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MGkBDNSEhJC" displayName="mc Trojan Nickel Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Tt9lULArquT" displayName="mc Chidodo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FgU4Zcz5U7E" displayName="mc Negomo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gn5KxqkLgTm" displayName="mc Guruve District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="plRdDXQh3rU" displayName="mc Mazowe Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zMWqMUxMT7E" displayName="me Masasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B7MCqlnt9c9" displayName="me Chikwaka Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OPxYB3sxLY9" displayName="me Chivhu General Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zF8O9v4NbSA" displayName="me Unyetu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GI0IFNWXS8a" displayName="mc Nembire Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qV7RnLkuF5g" displayName="me Gandachibvuva Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gnCAtjVM4jt" displayName="me Mwerahari Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GLitgBlY1o4" displayName="me Chinyika Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XatZA7PFuMP" displayName="mc Nhawa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GKtPGyT5u0Z" displayName="mc Wadzanai Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sQTDkxDALfD" displayName="me Goneso Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="D5gTnvm2lRc" displayName="mc Kaitano Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="blxFf086iZk" displayName="mc Shamva District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UsYPWsQXGbg" displayName="me Rutanhira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Lz1AbYU7hzv" displayName="me Bosha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="l1hKpCwcy08" displayName="me Pote Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kso4CHS6P7v" displayName="mc Mukumbura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ojBxVwmGZz1" displayName="me Chinamhora Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WY8QnZOhdzS" displayName="me Ruwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nBHR2ZPXjOV" displayName="mc Karanda Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LUkaYUNEAWd" displayName="me Makumbe District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="M1bLJxP0KX6" displayName="mc Chihuri Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rd5Uf966GNs" displayName="mc Nyamatikiti Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AbmoDPp12lC" displayName="me Daramombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZKR9y6QBLKq" displayName="mc Tsungubvi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JZXjde8nGqB" displayName="mc Mary Mount Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XPk4JYUZeS1" displayName="me Nyamhere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qmaGE9Oq6kA" displayName="mc Chimandau Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RXs4ee54yhG" displayName="mc Pachanza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iTfYEv5vhzX" displayName="me Murezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OnljtPLFl6a" displayName="mc Mutungagore Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eopLbB9IjK6" displayName="mc Rusambo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oauPRjbamz2" displayName="mc Chidembo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="O2TArDE6O3s" displayName="me Makarara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PHry0pvv7Xd" displayName="me Mbiru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eiOs4aU2yjI" displayName="mc Goora Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="A6Zh7rdRYc6" displayName="me Domboshava Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="U5aX0dFbY3W" displayName="me Gandami Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KyBetKcK90J" displayName="mc Mukosa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QUME57YvrvB" displayName="me Chivhu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="auaQozRIOLm" displayName="mc Tsakare Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ENpqUhT1fYg" displayName="mc Kamutsenzere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Pe9vjw20foQ" displayName="me Chikurumadziva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FYwRJcKqz7u" displayName="me Nharira Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LlAXaPDxq6q" displayName="me Nhangabwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="txD1TwpwsHW" displayName="me Cranborne Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v0iFLfLnhZu" displayName="mc Shamva Gold Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dNu7gRSOYDL" displayName="me Wiltshire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ekbdtc8K62D" displayName="me Mutoro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DOlQq1GB4v8" displayName="mc Mukonde Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PYVmCC5QzWR" displayName="me Bvumbura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vVmQGytV5iT" displayName="mc Dotito Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="trTCqAUZngw" displayName="me Masikana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VFiSfKed9Bt" displayName="me Hoyuyu 1 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x8erRQoNuQe" displayName="me Nyamukoho Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oDRIn1TRJQ5" displayName="me Kunaka Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MCTrOJalFxg" displayName="me Muda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LEDVQ0Hpzsw" displayName="me Ringa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sy4K8oabHGL" displayName="me Makosa Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WpORH5kQ8fl" displayName="mv Bere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Abmo1sONk9G" displayName="me Masasa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HzsCdzycH81" displayName="me Beatrice Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FklZnyAweeh" displayName="mv Rujeko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ER8MCtyWYI5" displayName="me Chindenga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NF7mpu2EvNX" displayName="me Chimbwanda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Nr9PnOvHJ5C" displayName="me Kushinga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YZuS9BT4pKu" displayName="me Dombotombo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ibnZnbDrE09" displayName="me Nyamuzuwe Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fQUGtsR81lp" displayName="me Dimbiti Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZwYyO4TGfWH" displayName="me Makaha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i6teuuckzzW" displayName="me Chigondo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZPOAwzV6LOI" displayName="me Masenda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AMeY6hXLpfJ" displayName="me Garaba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SteTta0wB61" displayName="me Jekwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PCZOJViYe2n" displayName="me Chisvo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="p1v1QU4KQSj" displayName="me Katsukunya Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L3bhMDQZ8l6" displayName="me Derbyshire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iEugVfnUXuU" displayName="me Hoyuyu 2 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MIIoWiLSVfi" displayName="me Mt St Mary's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nk2lS02CIvE" displayName="me Chiota Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mfbKAvsWhd6" displayName="me Border Church Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="A07DDnPfVPy" displayName="me Suswe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SuZnhJW4o8e" displayName="me Nzira Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NOekVWNaW3O" displayName="me Waterloo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nRSfosZwTju" displayName="me Nyameni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cuaFWOVyBcF" displayName="me Charakupa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZhMnTpPHQkP" displayName="me Nyamuzizi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="a1nC2XuGpY0" displayName="me Dendera Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hzPUNLSAcny" displayName="me Macheke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oEwopIvfS15" displayName="me Igava Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KgmA6MdMtFY" displayName="me Nhowe Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cD95jTscQmY" displayName="me Nyamutumbu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yHaKCyV8Bd5" displayName="me Chitate Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jGH2r8SpBR1" displayName="me Kadzere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nWhYVNm0WBU" displayName="me Dandara Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K8JHQUQfuae" displayName="me Lanark Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sNXjwi7ELPe" displayName="me Chiunye Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uXG7AmdmYq1" displayName="ma St Peter's Mandeya Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wihdkhi7Aah" displayName="me Mutoko District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k0yYlNGCOkb" displayName="me Shinga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PewheyywlnB" displayName="me Shambamuto Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QJpvYebxudy" displayName="me Munamba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xkfoiswgpb9" displayName="me Masarakufa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ikfdKDKol6r" displayName="me Kotwa District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dMek5b21Mr7" displayName="me Nyamanyora Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aXbupxQbubo" displayName="ha Annexe Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZkAUz0ZfGXn" displayName="mw Karuru RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OiOTmgg2IYI" displayName="mw Mhondoro North Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WdK3I5H1YIv" displayName="me Nyakasoro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Bptnjxo6m5A" displayName="mw Mhondoro Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RjVkEZqu46z" displayName="mw Msengezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m8GBz4K50XD" displayName="mw Rwizi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qNA0WCicGW3" displayName="mw Battlefields Army Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UzwlH9DKyqL" displayName="mw Chundu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UcJKVyyylMH" displayName="mw Chidamoyo Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Nooh15bzo4O" displayName="mw Norton Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r5tDghDcwfn" displayName="me Kafura Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ND24v6EuXVS" displayName="ma Katiyo Tea Estate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F2zPzFu25FX" displayName="mw Chinhere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KMhDzcwtcEi" displayName="mw Chirundu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dinMl4eP4Nu" displayName="me Jonasi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pr3OA2Snlps" displayName="mw Gora Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OHRuhvMjaio" displayName="me Maramba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AdrZGzBHBdf" displayName="me Nyanzou Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LHjVeJtFyO2" displayName="me Chipfunde Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SDh1YVOVccE" displayName="mw Musinami Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dthDF4C3Sm3" displayName="me Borera Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tNooDwYWdaJ" displayName="mw Chivende Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rrwRWdBIu4E" displayName="mw Chegutu District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cfjk1dGjdlQ" displayName="mw Mupawose Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jSLNp76dXAv" displayName="me Chitsungo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CGPfx0JG2rZ" displayName="me Manyika Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gn52LwHeWA6" displayName="mw Donain Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="klKzBRhEkqX" displayName="me Karimbika Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Gc1X3NYyk9O" displayName="mw Mashongwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LeZgvBMv6xR" displayName="mw Sandringham Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MD7xcLAvrRe" displayName="me Chitimbe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ncSavEEyOvs" displayName="mw Hesketh Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F3kdWqiKhDN" displayName="mw Hunyani Pulp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="J9WafyyWlop" displayName="mw Lynx Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vT5oaS4TOdg" displayName="mw Selous Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x7PRZXUho2z" displayName="me Mutawatawa District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yCf2IRuuCK4" displayName="mc Muzarabani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XEOVqP1R0dh" displayName="mw Kazangarare Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QqSkHt2vLvl" displayName="mw Monera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GScNFtBXxLn" displayName="me Muskwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pHfYf2HeLON" displayName="mw Watyoka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WWbdpFMcvjZ" displayName="mw Chikara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HSKwN9sUvmt" displayName="mw Nyangoma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AWivwhWkNzl" displayName="mw Masanga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HweUoYPqEPm" displayName="mw Karoi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Y7BYSQJ5MLz" displayName="mw Zvipani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NnqNcMDpUNY" displayName="mw Chibero Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UPtK34fA6GZ" displayName="mw David Whitehead Clinic (Chegutu)" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yLTF6bssNwa" displayName="me Nhakiwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="daBCGmAg9r8" displayName="mw Ordoff RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uAnfaRYyxmn" displayName="me Makanyazingwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HveAeV6CvrV" displayName="mw Chivero Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ml25Hu7FAPO" displayName="mw Turf Estate RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GG5fmAKKfw4" displayName="mw Nyamatani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BkYTPx8PjB7" displayName="mv Nyika Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Zv0OMYQpKGo" displayName="mw Muriel Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rC7i1uDARQP" displayName="mw Chalala RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QDH3UlnqxdE" displayName="mv Bikita Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="b9vsXIKqid1" displayName="mw Zvimba Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kvq5cN02EHW" displayName="mw Darwendale Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EJGMNgSreZS" displayName="mw Trelawney RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UxQucFI6E3p" displayName="mw Kanyati Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DKq7C6J9P60" displayName="mw Nyabango Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="skig6i0kMFB" displayName="mv Silveira Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g6ZZTzRxuno" displayName="mi Mpinda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pggK8xtOWkp" displayName="mw Dondoshava Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ldOvhQ2kYsi" displayName="mw Mukarati RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="G57fVB65L2O" displayName="mw Jompani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="knjK07tin6v" displayName="mw Nyaonde Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sdN3U9AOEpk" displayName="mw Chirau RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g2h0AGCGHG4" displayName="mv Mashoko Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JI5VUIfVM9X" displayName="mv Chirorwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mmV7mnyIlXG" displayName="mw Muuyu RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ueC0VR439jb" displayName="mw Muzvezve Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LpQK3Eec8Ay" displayName="mw Mukohwe RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qLpKVzFktN7" displayName="mw Obva RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cAMje9pQE3E" displayName="mw Jondale Bumbe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VKTZGYgvGbX" displayName="mw Umboe RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gro8cEQCXu8" displayName="mw Manyewe RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ooSFsGF2dJY" displayName="mw Godzi RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wy34Zk2to8H" displayName="mw Chirikiti RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NG4e4layZjo" displayName="mw Kenzamba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K1kK9fDmd7v" displayName="mw Masiyarwa RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w5gb3klCYji" displayName="mw Zumbara Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ggbM4q0E7FM" displayName="mw Bururu RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AHUpXALQka8" displayName="mw Vanad RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hYRXKuetQiF" displayName="mv Chilonga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aWhygv9Wr7a" displayName="mw Zowa RDCClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SxToMjJJz68" displayName="mw Mahombekombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aIPqoEQQZu9" displayName="mw Mafindifindi RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cfYVFtLReGT" displayName="mw Chikonohono Munic Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K7zbR9jRGTu" displayName="mw Hombwe RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NfsQQEiohAb" displayName="mw Sutton RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xh1S0QX9HWx" displayName="mw Chivhere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZzxlAv1BO5j" displayName="mw Kutama RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FKhAJhXjzhx" displayName="mw Murereka Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aMFd7hYaHSk" displayName="mw Mutorashanga RDC Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w3EePaVqKMz" displayName="mw Jari RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="geW8p2ssd3n" displayName="mw Murambwa RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dW1nZB3QRuP" displayName="mv Marozva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EBfmC3oJ5sM" displayName="mw Kariba District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nqtw8QgNOtK" displayName="mw Gwebi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XzL8xx0lbDy" displayName="mw Negande Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LCqojzkIKO4" displayName="mw Inkomo ARMY Mech Field Coy Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pt2kLo8cYjp" displayName="mv Chitasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QEvN9NNhcHY" displayName="mv Chimombe Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NMwfQhVVJic" displayName="mv Chikuku Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="W5VZWNHM64p" displayName="mv Nyahombe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HCrlcfVKtZ4" displayName="mv Takavarasha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C5NOjTNMSLP" displayName="mv Chambuta Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="voupqZXYz1a" displayName="mv Mataruse Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WKb2oTWOZFK" displayName="mv Nyangambe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bdCSEqaZjQ0" displayName="mv Chepiri Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rO0zd2ABjrh" displayName="mv Nemashakwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WKajRM67kXh" displayName="mv Vutete Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ajETJbPXyrQ" displayName="mv Razi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xuwXHQW0lEx" displayName="mv Hippo Valley Private Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IbfTUlnnPd2" displayName="mv Mushaviri Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kDHBO9DwrmJ" displayName="mw Golden Valley Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Kj83rFr3Q4P" displayName="mv Makambe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L2jJid5aanE" displayName="mv Davira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JxITOVaPFT1" displayName="mv Bota Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Tjo7lWewbhC" displayName="mv Malipati Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CktmRE9FieY" displayName="mv Pahlela Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qIx8s9wFdbA" displayName="mv Shindi Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WDjdDW5YM9t" displayName="ma Mutema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hyeZYVzPpLf" displayName="mv Tirizi Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LbxK9ARCm0M" displayName="mv Chigwikwi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MCNppVS36MO" displayName="mv Chizvirizvi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ba8txogG0jd" displayName="mv Munyikwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XxPMxOI9jqs" displayName="mv Nyazvidzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yq0AR7eRb3Y" displayName="mv Old Boli Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vb0GjmvFmNM" displayName="mv Serima Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hmLr5OJqWd6" displayName="mv Zvavahera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OLppnxxYhG8" displayName="mv Berejena Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SmTWwxr4dsM" displayName="mv Gutu Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tW1seCReVmF" displayName="mv Chikombedzi Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RjPaRRmbrJq" displayName="mv Porepore Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FHv7mXP5yzW" displayName="mv St Joseph Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JhOE2PlU286" displayName="mv Chiwore Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s2aXJCgTb0O" displayName="mv Masinire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EWpTNffyi57" displayName="mv Zinhata Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="elKvx3rNTFA" displayName="mv Muteyo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="j5z5Vg20MEn" displayName="ma Nyamazura Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RR17IHFupHB" displayName="mv Damarakanaka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d3nnIyRIBkd" displayName="mv Chingele Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oJnY7eweQV8" displayName="mv Dambara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="igoWuGaddpK" displayName="mv Chipiwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ntr6VH1qAJl" displayName="mw Pfupajena Munic Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lkhHqzi6ezf" displayName="mv Rutandare Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C3ns30PcFjR" displayName="mv Tsovani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w91Pdaoyw6t" displayName="me Chimukoko Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TwQ48A8hBre" displayName="me Madamombe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k9LxvErzpF5" displayName="mv Chivi Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VD1EhcQ8bNE" displayName="mv Ngundu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZmycPHadal5" displayName="mv Chivi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v038Gk7E3aC" displayName="mv Matizha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TGVBYUvxPe5" displayName="mv Soti Source Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fTtp6NjSMw4" displayName="mv Mushava Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hLt1vxPMtLl" displayName="mv Renco Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aE9GkM17t5V" displayName="mv Neshuro District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="voCqrifiYBN" displayName="mv Chatikobo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OpqO7PRXP1Q" displayName="mv Bvukururu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FqtCDeFcuH7" displayName="mv Nyajena Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BDPOo7vb6SH" displayName="mv Chitando Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xv9Q2UReY0b" displayName="mv Chinyabako Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EKhuNsZc6Nl" displayName="mv Chizumba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CtwfEoZrU3T" displayName="mv Chipinda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TWK9GVJ0YcF" displayName="mn Kanyandavu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Fzq9mTt0mwd" displayName="mv Mukosi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mJaQxbScx06" displayName="mv Bondolfi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dF1v2SOuvg2" displayName="mv Murove Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CoBuECjxZyS" displayName="mv Maranda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mxsDtZixLZC" displayName="mv Lundi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vyqimrfz51a" displayName="ma Maurice Nyagumbo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gVxFHNoVz6h" displayName="me Gokomere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q5S4ghrkIPr" displayName="mv Charumbira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tyF4ojI2pf0" displayName="mv Jerera Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q4pYhjAOvDW" displayName="ma Arnoldine Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YBrN4MulgEM" displayName="mv Chiredzana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BeVXhb4Okd5" displayName="mn Dandanda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ru92cefCXx3" displayName="mn Jotsholo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VJ0Qw6b1JSY" displayName="mv Jichidza Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AD1DBy9TnBQ" displayName="mv Shonganiso Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m7fNYLjfiTM" displayName="mv Mushaya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MTRfaAnHr3Y" displayName="mv Lennox Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RyXYCIjkAWw" displayName="mv Runyararo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="khsYWpCvLLQ" displayName="mv Mushandike Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qLzDP5tdFZe" displayName="mv Mwenezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VzoCjYnSVc2" displayName="mv Musvovi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z7U0RkB0VQt" displayName="mv Rutenga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X6gxxPEVIzy" displayName="mv Veza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bQEbyIDLBKt" displayName="mv Mucheke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="khYpE0OD9sA" displayName="mv Guni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Hz6oxH5mkwS" displayName="mv Murinye Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q573I7dDsyy" displayName="mv Rukovo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jmqpBkcYVsh" displayName="mv Zibwowa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zF94vTZUOen" displayName="mv Musiso Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QKyJjASGoVM" displayName="mv Harava Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Czle6XjxWyz" displayName="mv Matibi Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wsvthNm37mG" displayName="mv Siyawareva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QRc5MpV5Zts" displayName="mv Mazetese Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Pn253DhIGF5" displayName="mv Summerton Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CgHpXtKGPab" displayName="mv Guwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lslcMx31f2m" displayName="mv Gurajena Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N79CQMH43tT" displayName="mv Magombedze Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="p7YSxA5z5XM" displayName="ma Chimbudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HXHPwUjXD8A" displayName="mn Lubimbi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r9yhzcMuDa7" displayName="mn Mwemba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rprerQGVIlD" displayName="mn Lukosi Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DhKzAnRliZz" displayName="mn Inyathi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MtYXI5MCtuX" displayName="ms Nottingham Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LTtUPlsg8Yd" displayName="mn Chinego Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wj4RlmwcJkb" displayName="ms Makakabule Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aG3e8vLBDp8" displayName="mw ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GM03mm6duRI" displayName="ms Majini Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gmLfAfr1YLt" displayName="mn Sivalo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AApdlLy8xDh" displayName="mn Unicem Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n7PWhl64p5Y" displayName="mn Fingo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OYnj7haEW3L" displayName="mn Chinotimba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fnTUcLvSFv6" displayName="mn Victoria Falls District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="H6XDX82MnK3" displayName="mn Lupote Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CpgIKDUylA4" displayName="mn Lukunguni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MukdpNMa0wO" displayName="mn Siabuwa Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sp2U5DIl8aL" displayName="mn Mtshayeli Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="miYTD7Z89qM" displayName="mn Binga District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xGHewS8QVb9" displayName="mn Guwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NdNQBZC4plK" displayName="mn Safari Lodge Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wNv0rUXoprE" displayName="mn Tsholotsho District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="o8v1aiUjp5z" displayName="mn Fanisoni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rBTEnsD0X8Z" displayName="mn Lusulu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MjYcpFjUjbG" displayName="mn Mbuma Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s0sZR1GDeoX" displayName="mi Denda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="acQe3id5m7a" displayName="mn Siansundu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="j0FI6bcuGFL" displayName="mn Nkayi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bh46Jbdsx4Y" displayName="mn Gomoza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DHX4QPFYNf1" displayName="mn Igusi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FvzDz7j6bk3" displayName="mn Ntabazinduna Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kXnKVCPF1wZ" displayName="mn Ngwaladi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jZGy677dnfU" displayName="mn Empumalanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DxYCdFYiA2M" displayName="mn Dinde Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="l5x633QnB6H" displayName="ms Shabwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dnyF1KLtmrO" displayName="mn Nkunzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zOu1YfpEc99" displayName="mn Jimila Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LKwAHy9EDfG" displayName="ms Nswazi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rF3ZY8pOeYJ" displayName="mn Mateme Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="c0IieswYbFt" displayName="ms Dulibadzimu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E8EI6XrQSsn" displayName="ms Beitbridge District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BnH3EgzEjkO" displayName="mn Mpanedziba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EqD2xssNXGE" displayName="mn Pashu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vDdAHJWNfHn" displayName="mn Sodaka Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yzteaQjArJn" displayName="mn Zenka Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="H7pfKUKYqHv" displayName="mn Kapane Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g29TEy9yTIW" displayName="mn Nesigwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oh1Jp42kTE9" displayName="mn Sikente Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IQZG0qnOb41" displayName="mv Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wDtbGPatTno" displayName="mn Chisuma Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AvldN9Anc7S" displayName="mn Jambezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zMnGvy72aws" displayName="mn Zinyangeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="icHSTSJ1PwX" displayName="mn Gwelutshena Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BonXdPEgO3t" displayName="mn Muchesu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RciFvYGZ2xo" displayName="ms Solusi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NoyhPjmwOeo" displayName="ms Stanmore Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wc63W8e4VPt" displayName="ms Simbumbumbu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Slqko1xDIYV" displayName="ms Hingwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="O5YeiVf8VLA" displayName="ms Nswazwi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="myQLemPmnNB" displayName="ms Swereki Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CRnw6S2VnRr" displayName="ms Matopo Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lCRlkEz71cc" displayName="ms Nkankezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kyaDYgOIpBZ" displayName="ms Natisa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rOWtl12FU0f" displayName="ms St Annes Mission Hospital (Brunapeg)" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LcHMxhBrEBo" displayName="ms Sanale Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yxtQKFT8xxn" displayName="ms Gulati Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="croT0mcnle6" displayName="ms Mambale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Pu8ltwdaHfW" displayName="ms Tshitshi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zmh954cgQHV" displayName="ms Gwatemba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Kcm1LN2oBWI" displayName="ms Embakwe Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LbdpvKwWs0Y" displayName="ms Shangani Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pxWz8J9mpVR" displayName="ms Matjinge Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HGrsdZnGVLx" displayName="ms Avoca Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dtbRhEVyrat" displayName="ms Kafusi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dhiLrn2OMIj" displayName="ms Gungwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VXlbEmt9svC" displayName="ms Mtshabezi Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w4rwyHJKWBr" displayName="ms How Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="b0WVnEWPk15" displayName="ms Marula Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FZH7EITOBvB" displayName="ms Filabusi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="V3JpY96kdVF" displayName="ms Nhwali Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xfTfBuZjJkt" displayName="ms Village 13 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rzWIrDCE3FA" displayName="ms Dingumuzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="c3kGl224qGl" displayName="ms Mayobodo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WXjYZkmAcxq" displayName="ms Zhulube Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KBygsFhy7Xa" displayName="ms Ndiweni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SrqxRxaYSzn" displayName="ms Nhlangano Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C04QiGQzbtb" displayName="ms Masera Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zUcx6zsL46y" displayName="ms Mashaba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ayVaCeZSRAC" displayName="ms Gwanda Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GBsKRjq9zHR" displayName="ms Ntalale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Nw3NVUqhNaU" displayName="ms Mabuze Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q38EU4UNiaJ" displayName="ms Mzimuni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ULqqDsrSxfO" displayName="ms Buvuma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pUVSUBJ8Es1" displayName="ms Shashe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pTC2Kr3J36g" displayName="ms Manama Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OGwUj8IBy4e" displayName="ms Homestead Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AEArYs0pk3a" displayName="ms Ingwizi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qZ20lY26Zhi" displayName="ms Maphisa District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jTCANAwYpUA" displayName="ms Singwango Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IKhkPBZe9GG" displayName="ms Kezi Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UeNiHcD5J7x" displayName="ms Dombodema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fGPBRoboFJn" displayName="ms Tshelanyemba Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OUmbO9Dx9Av" displayName="ms Makwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m2YKQmvbayb" displayName="ms Bazha Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="j6F1kG6g3f6" displayName="ms Ntshamathe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wz8YBhr40BI" displayName="ms Esigodini District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oSAZBT5wDIC" displayName="ms Madabe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XWOMMnxlSoD" displayName="mi Chikato Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZokXr8S7M1j" displayName="mi Guramatunhu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DHEcl0aTZ6O" displayName="mi Tana Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F9bd4PTzZLa" displayName="ms Mhlahlandlela Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uGuNFdnD0Hh" displayName="mi Maboleni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="snps191LWM4" displayName="mi Tokwe 4 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IKCXW2cAgiU" displayName="mi Gwanza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cBXTpF0j9Li" displayName="mi Sidakeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HClC4EoiIq1" displayName="mi Mazibisa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="abUk6qibmMl" displayName="mi Shurugwi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mib1cXwWt3O" displayName="mi Driefontein Mission TB Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ci8nTvALyD5" displayName="mi Dambridge Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zDHXPrHvZRf" displayName="mi Samambwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tPlsx1I80sP" displayName="mi Torwood Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="apmZoDToelb" displayName="mi Shabani Mine Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ShaUoNIfalb" displayName="mi Rio Tinto Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i1OgeQDkwvW" displayName="mi Mlezu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vZADsV7Sw4f" displayName="mi Tongogara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tda4dUNbHXS" displayName="mi Mvuma District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kDv1D2Ehf98" displayName="ms Mbizingwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LOf2t7SLChQ" displayName="mi Silobela Jackson Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fNORHKgBfTQ" displayName="mi Connemara Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="m145xcyK3sD" displayName="mi Ntabeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SoB3qwqFglW" displayName="me Rusike Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ibYWPAMeCBw" displayName="mi Chengwena Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="M0SaUIESsW3" displayName="mi Makepesi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qKmB3CBc0NN" displayName="mi Lower Gweru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jmQaIMZ8F8q" displayName="mi Sebakwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RB5YfilIXTy" displayName="mi Chitora Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NDHNjXIlHLK" displayName="mi Holy Cross Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fMobiVP4T70" displayName="mi Nyoni Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Cv6kmfDxwVs" displayName="mi Lalapanzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rGSQkc52bpf" displayName="mi Zhamba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RbhNPaoniaH" displayName="mi Nkululeko Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aL58fK7xuuQ" displayName="mi Svika Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i9MkUcK2ICF" displayName="mi Rockford Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K8kVjbJUQEO" displayName="mi Hama Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HZJ8sepNyEZ" displayName="mi Chikwingwizha Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="teWdoeRkmBn" displayName="mi Mazebe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gIKW0lmqvaz" displayName="mi Lynwood Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X6AP7mzriHR" displayName="mi Siyahokwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sLsMVIpwoky" displayName="mi Jobolinko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="V91qrg6c0yU" displayName="mw Chakari Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SYh7kFev6Op" displayName="ms Mawabeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IIABLkS1ldc" displayName="mi Vungu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ueajare7wgg" displayName="mi Gomola Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="J7MxHJHZ9bi" displayName="mn St Patricks Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GlxURpUrNmh" displayName="mi Gunde Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NYWetpSMWGf" displayName="mi Chizhou Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eUv3iLHTiIN" displayName="mi Simana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="db63NfYNFHF" displayName="mi Zvarota Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s2XKQ7ZiCub" displayName="mi Banga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uRUqAmJnbUw" displayName="mi Chitave Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LoodK7ava2N" displayName="mi Mazivofa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nu3j8J5HOpv" displayName="mi Norah Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KbXhBIthsOo" displayName="mi Chabwira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RE3XdcTPvmu" displayName="mi Vugwi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oKevHdgQchc" displayName="mi Musita Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AcK4cq5nDXi" displayName="mi Mangidi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E0AFzQNcapu" displayName="mw Zebra Downs Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cHT3PnSLQGW" displayName="mi Zvamabande Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SHBczc4h9R2" displayName="mi Zvishavane District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rt2UEccM5K5" displayName="mi Nenyunga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lafgRVBCHPb" displayName="mi Kuwirirana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YkO5HeH7cyE" displayName="mi Gudo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="R1bec89l3UY" displayName="mi Goredema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="olYisdMN5zi" displayName="mi Pakame Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mWQfdYJ8Ogf" displayName="mi Mnene Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="h2xWiMJwiP7" displayName="mi Jahana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bXlxEPKa20b" displayName="mi Kahobo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JIMqCEwBKen" displayName="mi Nyaje Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qk0h8CWfku5" displayName="mi Sandawana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HTBlKWC3ivP" displayName="mi Hanke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TNtqKFGZD68" displayName="mi Chireya Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hWbSV3iEQ4S" displayName="mi Masuka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XllhG5cKBYD" displayName="mi Mashame Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ExkjdxwIkft" displayName="mi Simchembu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CXLqK6E4nCr" displayName="mi Gawa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uKCbAOwZT3L" displayName="ma Murowa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IV4p2J0Nryn" displayName="mi Matenda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QtQuJs4drLH" displayName="mi Svita Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eHtpKDVWlGl" displayName="mi Sai Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pAg0wU4miIq" displayName="mi Msala Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eTumkl8DSgO" displayName="mi Huchu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ujR0SPoYlYt" displayName="mi Mateta Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SYIise5QtQF" displayName="mi Mabasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k3KMG4tehcq" displayName="mi Kadzidirire Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XLxruS1jL1F" displayName="mi Lundi Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LsOQ88WjuXR" displayName="mi Chironde Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UC2KKnYZ3jw" displayName="mi Krima Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fzX4nYbF8u2" displayName="mi Svisvi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TD7ae6B1B8i" displayName="mi Marishongwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uQ9ydoZsNxt" displayName="mi Murongwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X8zn12MUr5m" displayName="mi Rubatsiro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="btpo9RLUGxP" displayName="mi Manyoni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tflMp1UOdUl" displayName="mi Vukuzenzele Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RnD0rb3ufox" displayName="mi Zhomba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YhVBzHr20wt" displayName="mi Maketo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RSWJwvm4fOh" displayName="mi Mimosa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mxgUxlPeZ4S" displayName="mi Gumunyu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="u2a0I7Vp7s8" displayName="mi Manoti Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pL4gUH07HdO" displayName="mi Gwanyika Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="c27sRLtrAAv" displayName="mi Mtambi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r3oWdQofL1r" displayName="mi Masase Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pqunV5XpzEX" displayName="mi Ngungumbane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v0m8r70tRq1" displayName="mi Imbahuru Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aWd20Dgkezw" displayName="mi Kotokwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F2UQyWLITD3" displayName="mi Musume Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Hh829PZcxK8" displayName="mi Mposi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uwaxQgd4SXs" displayName="mi Makuwerere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rBQzyDOllhb" displayName="ma Bonda Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lsUKdklKOFn" displayName="mi Mponjani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Vjl8EMsht4t" displayName="mi Chiedza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tNU9P4tgMhs" displayName="mi Mataga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nuWZ2Ki399S" displayName="mi Matedzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XsaldP3aocJ" displayName="mi Vurasha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sW2IoMcwvul" displayName="mi Mberengwa District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QQsfN0FpDGU" displayName="mi Chingezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="quI1OYvSBPV" displayName="mi Jeka Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IyEihJS1W2P" displayName="mi Ingezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Yoy3Jj07Yif" displayName="mv Zano Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WrNbv2VF3IX" displayName="mv Gezani Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jOpC2qi2X6j" displayName="mv Dumisa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="veHcLRZXMge" displayName="ma Chiwenga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rUZeMci6ysk" displayName="mv Stanmore Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GllfEqmEhOT" displayName="ma St Barbara Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RBAiyJ9u8im" displayName="mv Gundura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wGXvOjmu96h" displayName="ma Mkwada Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wlJbhvl1hXM" displayName="ma Silver Stream Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cdDx6dXekAS" displayName="mi Sigezibubi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yVBotWcHbOu" displayName="mw Doma RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wgtPy9tJVaB" displayName="mi Gundura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LoSjn0yJDgY" displayName="mi Ivene Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="toCuAvEIFtG" displayName="mw St Rupert's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nEmrUB00q9I" displayName="mi Mtanke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EiLjfjMowWZ" displayName="mc Mupandira Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XkuKaxtXv8w" displayName="mw Matoranjera RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jAbqHJKvsAm" displayName="mw Dzivaresekwa gvt Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PZBpKzBqPK8" displayName="mi Senkwazi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ulXymYvr8YZ" displayName="mi Gweru District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UoLvuRUpeG6" displayName="mi Sessami Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JQ6jM1pYpeU" displayName="mw Caesar Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wRdT8kS44sr" displayName="mw Gache-Gache Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Y3Bg4ZzxfGm" displayName="mi Chilimanzi Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fgWvSa8BDMD" displayName="mi Sanyati Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aU0pH9gpvY9" displayName="mc Forrester Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AlhbuXhG77V" displayName="mw Kuwadzana RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n7VCAl5EpZX" displayName="mi Mbizo 11 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tkDEu9U43fG" displayName="mc Brandon Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZOI2LyVcE8Z" displayName="mi Nhema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n51CG1eEvX9" displayName="mc Mazowe Citrus Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GlampS7ZKwE" displayName="mw Makonde ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aA8JmPQmK81" displayName="ma Nyamaropa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XwwBXUiEqLF" displayName="mw Siyakobvu rural hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JK0aFYdJY9x" displayName="mi Donza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ontGl9VcCi3" displayName="mc Montgomery Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FD35gFkOMLQ" displayName="mc Mazowe Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="klEB2HlYhmz" displayName="mi Nyautonge Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KZia6a11ZKK" displayName="mi Mangwandi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sxPcBwIecTn" displayName="mi Kwekwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v59WnRtc1MF" displayName="mw Portlet RDC clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ITksWtZaDvn" displayName="mi Gokwe South ZRP Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WTACDqodL5z" displayName="mc Bushu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cjtHIvjlvHq" displayName="ms Garanyemba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k2TRaRVvJhP" displayName="mw Karoi Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s7X1foLFGE8" displayName="mw Zimplats Trauma Centre Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LXVUGQm7RGZ" displayName="mn Mabale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ixCPrKpqwfy" displayName="bu Lady Rodwell Maternity Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="U3e6ekRXW7y" displayName="mn Hwange Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ij65wjZHAiz" displayName="ms Vumbachikwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eEfUA9ZxG6Q" displayName="mw Nyamhunga_Sengwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qYV2YCq6MNp" displayName="ms Selonga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TlvL9zinytR" displayName="mc Mazowe Bridge Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fqzU9gJin39" displayName="mw Hurungwe Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TQlbLlJai3Z" displayName="mn Ntabazinduna ZPS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AluwtlpghNX" displayName="mn Membeswana Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="a5nhOcrZJdL" displayName="mc Chitsungo Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xx2vto5TcJv" displayName="mw Mbyuanehanda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pCODIoWCbsR" displayName="ms Irrisvale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pqpfmI41yEY" displayName="mn Dlamini Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L8lKPZA39ga" displayName="ms Colleen-bawn Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="I9r7N3wptXc" displayName="mc Chahwanda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XX0ZMuuDZhk" displayName="ms Wanezi Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WuDZ8D5PcVj" displayName="mn Gwaai Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NpqeIttg5Cn" displayName="bu Silver Oaks Medical Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CGm37qYHO3h" displayName="mn Tsholotsho Urban Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SncjH98WFxs" displayName="mc Mushumbi RHC" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MdssoEu135X" displayName="bu Emakhandeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="poqrqFB4ezD" displayName="ms Chitulipasi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fwV4STmkiq2" displayName="mc Madziwa Teachers' College" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RBH49SMclnb" displayName="mw Kadoma ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ellfi6GeXAw" displayName="mn St James Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZTL5TeMdviJ" displayName="bu Bulawayo Family Health Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B0siCMc82Xc" displayName="mw Zimbabwe Mining Development Corporation Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YVhOfzBetf1" displayName="bu Nkulumane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vUjMV9NBf7l" displayName="me Sowa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="O3FM4meFqdP" displayName="mw TRB RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZWzo5hchjw2" displayName="me Goto Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GLqagpqiJ55" displayName="ha Rutsanana PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Qe0frbRzvAu" displayName="me St Joseph's Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jkdHKf3rDMq" displayName="me Range Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hfkMdRTZsja" displayName="ha Parirenyatwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VdDV1ffFXiF" displayName="me Mother of Peace Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mUxVNM06Sk3" displayName="ha Glen View PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yDyRCeplLTy" displayName="me Marembera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wT4eGsRLTWI" displayName="ha Harare City Private Institutions" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ScPDUtDOQ7r" displayName="ma Gudyanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kcSDI2qlspj" displayName="mi Totonga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JxGGdcBF1lo" displayName="mc Montgomery Christian Care Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="L8FHOxqCfOa" displayName="ha St Annes Hospital (Harare)" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MzKUnHQrIAV" displayName="mw Chegutu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zrEeu5PasDm" displayName="me Marondera Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="o11Z9SbhWy2" displayName="me Bromley Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RG4VU0RvA6Q" displayName="ha Warren Park PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n0JZrktiRpP" displayName="ms Mbembeswane Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B35nVDlj7GY" displayName="me Lustleigh Council Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="knWOPLAfcgs" displayName="ms Ekukhanyeni Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E20saWNnwOT" displayName="me Zvamatobwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fj0LjOpeVrO" displayName="ha St Michaels Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UUrAeWdJEzE" displayName="mi St Patrick's Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GiVFEv4yPaN" displayName="me Murewa ZPS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="epzuk3Ugv3q" displayName="ms Sanzukwi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UM3CeWRmpig" displayName="ha Tafara FHS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KlF4lvdXsZh" displayName="me Sango Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JFNNch7ZJVN" displayName="me Kapondoro Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gwWyz9Yf0k4" displayName="ma Dumbabwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UXSP7PvIeDp" displayName="mw Karoi Static Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MviCUcbWstw" displayName="ha Zengeza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xAX0nUkwabD" displayName="me Mutoko ZNFPC Distributors" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KCZ5VpGQhPY" displayName="me Kowoyo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fEoKPhBWVJD" displayName="mv Dewure 1 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YbDW3tcFc5A" displayName="mv Chiredzi District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="of7XjyQuOBa" displayName="mv Triangle Private Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="T9AbvutvhKo" displayName="mv Gava Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xonqKvtiuxk" displayName="mv Dzavata Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SPN07U8I1kP" displayName="mv Chiredzi NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xuedeiYXBDU" displayName="mv Bikita Minerals Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IEJ0WsPBshR" displayName="mv Gangare Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gjJpDJGG8bE" displayName="mv Mukanga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vMhfQ2lxNWJ" displayName="mv Mukore Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zbvky2oW8Wm" displayName="mv Mkwasine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="z0dLCJK70y4" displayName="mv Chiredzi ZSA Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zxb1zUFM5sS" displayName="mv Rupangwana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DjzMz2Vsf8z" displayName="mv Dewure 2 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gNLShJ0wMmH" displayName="mv Murwira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DSg8HlmZ9uq" displayName="mv Chibvedziva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wbX3Fgf7RX8" displayName="mv Faversham Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MwCeR5AU5Xo" displayName="mv Odzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BGXb33lhLbj" displayName="mv Negovani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lnNATIfIe8J" displayName="mv Hozvi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EqcfpqVkoXv" displayName="mv Chiredzi Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mwJTr9zLk7k" displayName="ha Waterfalls Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yoSv5OSOTSt" displayName="mv Mandara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mIMEUxo8Efh" displayName="mv Bikita Epi Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YuB4DjpGKbr" displayName="mv Mungezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kFndlxCVNkl" displayName="mv Mandamabwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n2rESObXoQJ" displayName="mv Gutu Population Health Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NEZ2SRy5lc7" displayName="mv Denhere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nMBIqdJIM7h" displayName="mv Majada Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qzKscgrRHcZ" displayName="mv Nemamwa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vHxdsC47j5R" displayName="mv Masvingo Mission Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="McRpRMSMisr" displayName="mv Masvingo Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CsrqsNpaRqk" displayName="mv Gutu Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KJd1P67fZtb" displayName="mv Mukaro Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g62Dpo22HZV" displayName="mv Mutimurefu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KDF86JWL9kr" displayName="mv Masvingo ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dr94rzbEjNI" displayName="mv Madamombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i1svOb8EvPf" displayName="mv Masvingo Teachers' College Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qmuwPOCEvKY" displayName="mv Cheshuro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AJ3uwrj63yO" displayName="mv Gaths Mine Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C3NcCrDgghe" displayName="mv Matomuse Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DFmoaBpW7SH" displayName="mv Masvingo EPI Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="THcy9of3EKy" displayName="mv Morgenster Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gqcU7kuBg9L" displayName="mv Vuranda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="G9IafWJuShQ" displayName="mv 41st Brigade Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YDV9XYWfyKl" displayName="mv Gokomere Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eA27CMD9GCW" displayName="mv Ngomahuru Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TY6QX9xvr5f" displayName="mv Mapanzure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fg20SUCO1na" displayName="mv Chinyika Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i1XUWpnIRQx" displayName="mv Alvord Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GmVXlJ4SYAZ" displayName="mv Shumba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ai2dhghqcnv" displayName="mv Dewure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BwhiLyWCv3K" displayName="mv Masvingo Polytechnic College Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ck7pLPOQFDF" displayName="mv Mazorodze Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LCjmNyIXjJ5" displayName="mv Ngomahura Psychiatric Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CwWMght8FRk" displayName="mv Chipiri Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oLW8WxRRKwz" displayName="mv Mutero Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bvCr3KyoKpI" displayName="mv Mutema Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="V3x6VsYSvKp" displayName="mv Chakumbira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CK9XQFNrRzR" displayName="mv Magombedze Chitsa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dSmOsBpEdS0" displayName="mv G and N Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZQ5iU1uamLY" displayName="mv Nhema Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g0Ai6GvQkQE" displayName="mv Madhloro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jdwUJNG2RZj" displayName="mv Zivuku Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VplhWkXe21U" displayName="mv Mlelezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Du7biKhp1Ss" displayName="mv Boterere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="K0sqLsCctYo" displayName="mv Marinnda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EKnfAqyWdAo" displayName="mv Tshovani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TrNFY61RrsO" displayName="mv Wendedzo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hWY5bWPfKN9" displayName="ma Chitombo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ql8eIGGkFJk" displayName="mv Great Zimbabwe University Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="S32hXpOtszS" displayName="mv Mutero Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iZRMamLhmG5" displayName="mv Nehanda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sFfKzYeVI4U" displayName="mv Nyakunhuwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="goEe1IufApa" displayName="mv Svuure Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="u2oQ7F51Cum" displayName="mv Zvamahande Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g24yFqYA5xs" displayName="mv Masvingo Rural District Council Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Bvkjml3FqP8" displayName="mv Chimbudzi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="glToTsmBSNs" displayName="mv Dhavata Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N5W4thMg9Vf" displayName="mv Chitsa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NiAU2RdFd2O" displayName="mv Ndanga District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eAeYJMOHja5" displayName="mv Mukaro Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lfdYioS0Sbu" displayName="mv Zimuto BC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d8kcODE6HxZ" displayName="mv Chomupane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aymM2tvX3J6" displayName="mv Jichidza Council Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qHkq8Y4E0Q8" displayName="mv Chompani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fY1Kk7cibKx" displayName="mv Mwenezi EPI Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TJqJ2ltKRH3" displayName="mv Nemauku Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="D59t6IjbFPC" displayName="mv NRZ Clinic (Chiredzi)" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NrFFCY3Je1b" displayName="mv Rutenga NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zUwmTT7voUJ" displayName="mv Nyamande Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pHJSEeiAdBO" displayName="mv Fube Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vn0WMoBf2hU" displayName="mv Masvingo Rural District Council" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RXt6JRztoPs" displayName="mv Ruponeso Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="luI8lmoabFH" displayName="mv Ndanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sjw6oE6j9MO" displayName="mv Zaka EPI Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TLygdaSGpts" displayName="ma St Augustine's Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MwBIBpbaKVP" displayName="ma Honde Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RcSUy8MhT4H" displayName="ma Premier Central Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GGQhftNDqxV" displayName="ma Sheba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eUpO3WR3BKX" displayName="ma Nyashanu Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aBLvPMrMUva" displayName="ma Mapara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ues29NW1eYO" displayName="ma Guta Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CV4IXOSr5ky" displayName="ma Berenyazvizvi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yGoo44PvDXg" displayName="ma Redwing Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ChudQ17X9zf" displayName="ma Eastern Highlands Plantation Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QOUhAoaWRDk" displayName="ma Chiwese Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vTaoplhoJM3" displayName="ma Arda Rusitu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YHNrgUBY7iS" displayName="ma Mwoyoweshumba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WTG6oEnR7sN" displayName="ma Chinamasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uuN5RuVkZjK" displayName="ma Mutasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cDMh15Lx49d" displayName="ma Rambanepasi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hX6rd1u0c3e" displayName="ma Mpotedzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FFKaCUsSCQj" displayName="ma Selbourne/Nyanga Pine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="crCCkYOvmme" displayName="ma Murambinda Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SfjgNrMMfET" displayName="ma Mudawose Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YT86mnonZzz" displayName="ma Mandeya II Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eeOndYZ0Czy" displayName="ma St Peters Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LS2Iy7H3Kx3" displayName="ma Mutambara Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aJ0Yovbj54f" displayName="ma Zamuchia Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GICpKH9qAO3" displayName="ma Chipangayi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NBVeWREYjSt" displayName="ma Chipinge Town Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Aqp0UdKoD2W" displayName="ma Gwendingwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IIth6fUG1GG" displayName="ma Tuzuka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Dlm5vVPH4xZ" displayName="ma Mabee Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="h0HY9qChF4k" displayName="ma Ngaone Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vkNmGPfwSDf" displayName="ma Madhuko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ocZcHjwY60I" displayName="ma Southdown Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cfyzxG8NXg5" displayName="ma Chichichi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iwiIo0ksDLj" displayName="ma Mount Selinda Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ABH9FxABdpN" displayName="ma Nyunga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fh1XKCyfkGN" displayName="ma New Year's Gift Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QIrP8yI4al9" displayName="ma Chipinge ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SzA0jNDxgVy" displayName="ma Chiriga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mQHHLJQlIZ3" displayName="ma Chipinge Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="H2nBLDGbyPZ" displayName="ma Chimanimani Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pGQjbvHMTPK" displayName="ma Hwakwata Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JlS9FkKe7Im" displayName="ma Maparadza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eTm3CJ9XKCY" displayName="ma Tamandayi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QK63B8hEjh5" displayName="ma Chinyika 1 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w1KvMDHi7cA" displayName="ma Rusitu Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s6XW9zO319h" displayName="ma Chinyika 2 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PnK6HVt1SRm" displayName="ma Veneka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kmamm2DHAkx" displayName="ma Gumira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dtvjiz5g22E" displayName="ma Mapofu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cYGPBGuZmRf" displayName="ma Mayo 2 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BnuCMCoUXxB" displayName="ma Little Kraal Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zoRhmzvxj3m" displayName="ma St Therese's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BotP1Hanr0I" displayName="ma Tandi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VfrcAWmDlIN" displayName="ma Mukamba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MVBUcdeZX5s" displayName="ma Army Dependent Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RCcVLhP0OOz" displayName="ma Mutare Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KoIw7LDGj9f" displayName="ma Nedewedzo Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wzDAn1eA5kd" displayName="ma Arda Odzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TzHvI00E7RH" displayName="ma Groobi Spring Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xqxQzc5uJQ5" displayName="ma Sangano Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jeG6aR2JPR9" displayName="ma Mount Zuma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HHeHDfrf9G9" displayName="ma Mayo 1 Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CZWF01QsFtT" displayName="ma Mufusire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PzFSuCtPXpX" displayName="ma Rusape ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nOJs765REgP" displayName="ma Rusape Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CfSF8vkX9AT" displayName="ma Matanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jqirYc5fbgN" displayName="ma Nyamusosa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="y0apJPdoLjN" displayName="ma Bezely Bridge Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OlBZHeF4Ilo" displayName="ma Mutare ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rW0hFHerdeG" displayName="mi Mapiravana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PqExsT2KAi8" displayName="mi Madzivazvido Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cn05qNHxtLo" displayName="mi Gokwe North District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LCL9ryFvCb6" displayName="mi Mutora Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fngPvM0fNNI" displayName="ma Sabvure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tQoib218u3c" displayName="ma Zimunya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XD3SG9HU45u" displayName="ma Leekuil Takunda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FQUAPwfgFog" displayName="ma St Andrew's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r2IcqebfUbB" displayName="mi ZIMASCO Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f7IkOT2Fpg5" displayName="ma St Joseph's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jkKXdHWUIPR" displayName="mi Denhere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="heqvYVrVaIM" displayName="mi Central Estates Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CpSRvjt0nkl" displayName="ma Nyanga District Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zuwe1zLXtYM" displayName="mi Muvonde Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kmX3rzzOBG5" displayName="ma Nyangombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f6CgkxVhCLE" displayName="mi Musadzi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VBQGAnJefui" displayName="ma Vumba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d73t6Bs5YRb" displayName="mi Musena Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="waqTKtBqvzx" displayName="mi Nyikavanhu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="omGmH28ptOx" displayName="ma Tombo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FvfmaBnvRKX" displayName="ma Chatindo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wjp2vgBsUf3" displayName="ma Midsave Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zAtYR7ZYUZ5" displayName="ma Nyanguai Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GqwHVq4sdAP" displayName="ma Chatora Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iGL5yAjdHAC" displayName="ma Spring Valley Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YsNestJGSg9" displayName="ma St Werburghs Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k9ZNxyUdCX2" displayName="ma Zvipiripiri Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sSKlpVkDqJK" displayName="ma Nyautare Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="czJaFNMnZaU" displayName="mi Senga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HwIT3aIsuTN" displayName="mi Whawha Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f5SWKyYXPLQ" displayName="mi Mkoka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CruRr3BB7uS" displayName="mi Gweru NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JbvHP9GFMd9" displayName="mi Dabuka NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AMcdsZqn641" displayName="mi Monomutapa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pNc4TLhO9gr" displayName="mi Gweru Infectious Diseases Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="iMVtldIWJyN" displayName="mi Midlands State University Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ee367Xt3fRC" displayName="mi Rubi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fuHLYlO0nIe" displayName="mi Mkoba 1 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MMimEdy88IO" displayName="mi Mkoba PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nyAB0YMDoBt" displayName="mi Madikani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C8cvRyUwNvw" displayName="mi Gokwe Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QOyVj877fR2" displayName="mi Jiri/ndoza Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fJQT9Me7IlN" displayName="mi Ndavambi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hqMzUGRF0Vl" displayName="mi Gokwe South District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="S9f6KQakc2E" displayName="mi Gweru ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dAkr74lJdkt" displayName="mi Nyama Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gdr27YOXPty" displayName="mi Gokwe South Population Services Zimbabwe" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eelkwjILUSv" displayName="mi Chitapo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X65FArxjvOS" displayName="mi Thornhill AFZ Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GAfmXZsidnX" displayName="mi Tongwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X4dssd21wEo" displayName="mi Ntabamhlope Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mPRfeVLlEh6" displayName="mi Mateme SDA Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QOxd0srupY8" displayName="mi Five Maintenance Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JIw5Wb3mAJZ" displayName="mi Chemahororo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ld130D1EL0R" displayName="mi Vumba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pkZQSY7NDOT" displayName="mi Vungu District Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Tvj32SyBPNc" displayName="mi Gweru Medical Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Fy7dmIVnLrw" displayName="mi Sino Zimbabwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E8YETQLa2jF" displayName="mi Chiwundura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GJpUvLLUGTt" displayName="mi Somabhula Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yHHxYR0gIdJ" displayName="mi Chinamasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="j6V403chZCy" displayName="mi Medpark Surgery Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lUaxwkrJJ9g" displayName="mi Cheziya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PhtaiN9uHu6" displayName="mi Wanezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ve7IRU3xTkP" displayName="mi Amaveni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="roGzelO4gPi" displayName="mi Gaha Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Jr8if0re3nm" displayName="mi Mwanezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qrfT3L9YO0c" displayName="mi Silobela District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IXHsmjCW0vy" displayName="mi Mayoka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AXBqSlJtWxr" displayName="mi Negove Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qzi6uFHa251" displayName="mi Topomazi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="w5Foehru2SO" displayName="mi Malisa Zhombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fklDIbnXvDq" displayName="mi Munyati Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Yzle3VzzyNN" displayName="mi Tumbire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sDzK8Pt7tQU" displayName="mi Vutsanana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BZOLhPC0o23" displayName="mi Globe and Phoenix Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q0SIcfVYZ3T" displayName="mi Tiger Reef Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DvW4fK9utJL" displayName="mi Zhombe Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ykGqyoIiu08" displayName="mi Mberengwa Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f5r24bbz4bp" displayName="mi Jena Mines Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xKyiPe1J3DR" displayName="mi Kwekwe Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RzpKJ0Szgz3" displayName="mi Mketi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fN5Q0AZoXdy" displayName="mi Kwekwe General Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oTzdCScsUos" displayName="mi Al Davies Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rrBkoOMZ2AC" displayName="mi Bonda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jzGuPbMDQnJ" displayName="mi Chidembeko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hz6M0qg1e2n" displayName="ma Sakubva Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wo80amFm4OB" displayName="mi Donjuan Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lYISea3sa7Y" displayName="mi Gaika Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LbDW2TtPafa" displayName="mi Mbizo 1 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UcjVrqFdzjb" displayName="mi Rutendo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="byadYrctbqg" displayName="mi Msilahobe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rSzWOU0r2dC" displayName="mi Kwekwe ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HrCYQmO3SNa" displayName="mi Dendera Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="swWTIel4uf2" displayName="mi Sherwood Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UXwsoodN7jT" displayName="mi Mandava Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="o1XUOkb8Chw" displayName="mi Zvishavane Medical Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bthbb1sWMTl" displayName="mi Welezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rAUXsauSfFh" displayName="mw Crest Breeders Private Clin" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NWTrxjKRc2D" displayName="mi Dorset Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bCGckHi7m7T" displayName="mi Mapanzure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X7x12PYjdok" displayName="mi Golden Quarry Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z9w4yjx82FH" displayName="mw Zvimba ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SP6JqFuJz7w" displayName="mi Zhaugwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dfpYezH6cH6" displayName="mw Father O'Hea Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="er8MU1A7ayn" displayName="mi Chrome Mine Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mmuli7uwAPQ" displayName="mw Arda Sisi RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d2v7CqsxBrg" displayName="mw Banket District Hospital MCH" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x66hV0UrQCG" displayName="mw Raffingora Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EKzN9za0veE" displayName="mi Zvishavane ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Iu4JU5vvsTl" displayName="mi Mhondongori Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YfZFBb4Ke9p" displayName="mw Mount Hampden RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DccfijgagVH" displayName="mi Makusha Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bFCxwAuThTm" displayName="mw Mapinga RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OBGRRromwaH" displayName="mw ZIPAM Priv Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s8hVhOA5Ibt" displayName="mw Ayshire RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WP6I08tjKCG" displayName="mi Sabi Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TmP4rXQZHcS" displayName="mi Tokwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="J2tcZ8weE1X" displayName="mw Aryshire Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x27Dvx5zX0K" displayName="mi Mrowa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QE3JDuXXC03" displayName="mi Zvishavane Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oD9PKarQjyE" displayName="mw Banket Outreach Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="D8CMbsbjqfb" displayName="mi Rusike Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OEXR4r3lJVY" displayName="mw Banket District Hospital OPD" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HnfbuFOJS6n" displayName="mw Mpumbu RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vHEgaMne8F1" displayName="mw Madzorera RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uFImSWuEJ2P" displayName="mw Kemurara RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cXIACOdC70S" displayName="mc Birkdale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pLiP5wLAIG7" displayName="mc Guruve Farm Health Scheme Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="k3G1VjfRUGu" displayName="mw Lospen Farming Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dQlG18anLKE" displayName="mc Mugarakamwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tcl0y5CACHp" displayName="mc Camsasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IDbYdjwj14C" displayName="mc Muonwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="atIzgRoLGLR" displayName="mc Bindura Farm Health Scheme Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="u19lBQJUIP1" displayName="mc Chidikamwedzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JMz01Ql0U1E" displayName="mw Nyamhunga (kab) Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NTkxOkHNsKj" displayName="mw Middle and North Dyke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="oqHezjkD4Tl" displayName="mc Dambakurima Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Gu1JjY6Edv0" displayName="mc Manhenga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PN1oUrZNWpR" displayName="mc Bindura ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xfgrIEhpVaZ" displayName="mc St Albert's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ryHT5F30qfA" displayName="mc Guruve ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UWioIdFCTFv" displayName="mc Always Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dba4bhqXMYE" displayName="mc Chinyani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zRIOtXPfYgr" displayName="mc Glamorgan clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zW8TMirt94J" displayName="mc Takunda Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SLW5ioYcyec" displayName="mc Manga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lKky1wClDaL" displayName="mw Paramedical ARMY Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VRhyfZsm2tg" displayName="mw Caribea Bay Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DOhScLRYKX2" displayName="mw Mola Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lS5KthlM5eO" displayName="mw Msampakaruma RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i9ye3IKSAQG" displayName="mc Rutope Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nthtrQ8ZYCS" displayName="mc Rusununguko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RssHyAx1haj" displayName="mc Bindura ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ePZ78XLZM0A" displayName="mc Bindura Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HWEKcq4FVGQ" displayName="mc Katanya Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DbQXH7UTxW2" displayName="mw Kanyaga RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="udWpiurZMVp" displayName="mw Alaska Munic Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XivulgBxpIY" displayName="mw Nyamugomba RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mbVEXm82AwL" displayName="mw Mayovhe RDC clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FKa3yMeMRO7" displayName="mc Adura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BYPQOMMwWqL" displayName="mw Chinhoyi Provincial Hospital FCH" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="J6htfyEOgkh" displayName="mw Chinhoyi Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fd5x3cKA9Sn" displayName="mw Chinhoyi Provincial Hospital OPD" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TL6P8ih7Ra3" displayName="mc Henderson Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d3VmuOC7Mz5" displayName="mw Green Valley RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xkcTYcOE1rB" displayName="mw Sadoma RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wYA3w30yssa" displayName="mw Khosana Ranch RDCClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ogbAgg8zwC2" displayName="mw Chinhoyi Munic Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HJEvBCmpR3C" displayName="mc Mazowe Secondary Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IsRIVwWXtQK" displayName="mw Gudubu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="t3EseaHV0b5" displayName="mw Kasvisva RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xfXOVtAcjHn" displayName="mw Chinhoyi ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TUce5qd0i8U" displayName="mw Makonde Christ Hosp" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rn0AGNueA6V" displayName="mc Mvurwi Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YmvLtM3DznO" displayName="mw River Ranch RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rUmvSFmllUB" displayName="mc Davaar Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BXJNIljcB4y" displayName="mc Shopo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bpu2ZCmx7d3" displayName="mw Chimanimani RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Yx5OTPLeUAc" displayName="mw Manyamba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i7f92RTlyom" displayName="mw Kamhonde Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Q0g6X3bffP5" displayName="mc Cranham Extension Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="z4QkjZPb6Fi" displayName="mw Makonde CBDS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E1lUjnhgNHO" displayName="mw Runene RDCClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RbrrEAl4xGX" displayName="mc Belgownie Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dlvLQ9cbCAJ" displayName="mc Holme Eden Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mN1DcmfGN73" displayName="mc Von Abo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lpwDIjXunPD" displayName="mc Storis Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AbzDyWN1GSN" displayName="mc North Eastern Medical Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MXSIHpMySwH" displayName="mc Danbery Park Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v8hbbEXJulE" displayName="mw PSI Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KDtapVKZRH9" displayName="mw Chinhoyi Provincial Hospital Casualty" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rZD7HDCc67F" displayName="mw Chinhoyi Univ of Tech Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EDClzGRGLtD" displayName="mc Angwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vMCUDg37YDQ" displayName="mw Presbyterian Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ohAeL3I4ZEj" displayName="mw Gamanya RDC clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CxlReo4oAPb" displayName="mc Donje Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zbeXocs4ras" displayName="mc Concession District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yubwlZ66a2P" displayName="mc Nyamahobogo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fy4iRoRcrth" displayName="mw Mafuti Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jZT88S28eSb" displayName="mw Perseverance Army Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CVszPWzF4WE" displayName="mw Katanga Utano Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QUKQlheaguk" displayName="mw Rimuka Municipal Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nfRA8eUUp5s" displayName="mw Kadoma Hospital FCH" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dk3jiq2dHYj" displayName="mw Dudley Hall Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="D6N8UWfVAPe" displayName="mw Kadoma District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v2vaeAxaZMm" displayName="mc Chiburi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sWjKyzkChj3" displayName="mw Homedale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rs48hsAHBof" displayName="mw Blackmovale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Jp6UwiCCNTp" displayName="mc Bveke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lcljUIailpa" displayName="mw New Geja Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZmsUGq7jdPX" displayName="mw Lismore Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WrL273SAP43" displayName="mc Mutasa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vTet0yGknw8" displayName="mw Waverly Municipal Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N6SOXv9F9sV" displayName="mc Mount Darwin ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="i0WgB3IvD5Y" displayName="mc Matope Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sp8q9wxWBSP" displayName="mw Chegutu District Hospital FCH" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ngymqKr33XI" displayName="mc Nyambudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GdlWakJtoRZ" displayName="mw Patchway RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vu1VRNXKPmX" displayName="mc Bandimba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cR7Npl4ihAb" displayName="mc Chapoto Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qpEq965s2Ry" displayName="mw Rimuka MCH Municipal Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Jo89evshx8A" displayName="mw Dombwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GxXp62pvGkn" displayName="mw Kadoma Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Oz6p5RcJadO" displayName="mc Musengezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YrLclGGTdJa" displayName="mw Chinengundu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xeyqyhrEqJ9" displayName="mc Pfunyangowu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OO9JaMzwvJn" displayName="mw Jairos Jiri Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rrBuO3LiAUY" displayName="mw Chegutu CBDS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fLWLLyv4Y5o" displayName="mc Mount Darwin ZPS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qAj4FeHrhCb" displayName="mw Brunswick Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DL9A4lDtWrG" displayName="mc Chimhanda District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jQkd7s1bI5s" displayName="mw Lanlory Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vI1Kf4HOQla" displayName="mw Tengwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f68QKUNRmhY" displayName="mw Kapfunde Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z3uUAktokIU" displayName="mc Chimhanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fKLCgQosQCh" displayName="mw Beersheba Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ysPngdiDqUX" displayName="mw Ngezi (mhondoro) Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fxFr4twqaIm" displayName="mw St Michael's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cSWNVcN3NRE" displayName="mw Chibara Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ptcT8WoVLbG" displayName="mw Helwin Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zyhGiUplloV" displayName="mw Doro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pyGvDPF4vaL" displayName="mc Bungwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gWE3zAl8pbe" displayName="mw Twintops RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="feg23tKkoKy" displayName="mw Mwani Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BemKVece1hq" displayName="mw Manyoni Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RPldbqpVgwA" displayName="mwPresbyterian Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KVkYtEFMCIN" displayName="mw Batsiranai Nursing Home" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fYXmY87UqtV" displayName="mw Deve Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lMf3rJ8V2pE" displayName="mw Suri Suri Airbase Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="njamIl8fT5g" displayName="mc Rushinga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AsmK5WOEVFv" displayName="mw Kasimure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xSEU0kfcYUB" displayName="mw Chingondo RDC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KnvPyJl7vp5" displayName="mw Nyamakate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HWM12v0UAX6" displayName="mw Dete Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lj1GfhHdZjV" displayName="mn Tinde Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qTqTdojssVw" displayName="ms Beitbridge Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zAYLe0PLu6T" displayName="mc Mobile Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dlqwJ6OKw9r" displayName="mn Chunga Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hXpefkkW4IR" displayName="mn CBDS ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f7WXqv3NgCo" displayName="mc Chipoli Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tU6OmZQaPOr" displayName="mc Nyamaruro Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wH0Gbj1nPrz" displayName="mc Chishapa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ETm6n9STB4U" displayName="mn Siabuzuba Satelite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jL9rTOt4KD3" displayName="mc Guruve Centre Rural Health Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eu1hrSICcH2" displayName="mn Ndlovu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="a7pO3OO3I52" displayName="mn Kanyambizi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jRiHpNfGlM7" displayName="mc Madziwa Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jpEG9V6xrYP" displayName="mn Dete NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nyZPn26CoFt" displayName="mc Nyamaropa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WuPQlo8ThPp" displayName="mn Main Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="V40fJlBGl5l" displayName="mn Sinansengwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aq8MAvUpdWn" displayName="mn Dete Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RGvXTGJ3oi8" displayName="ms Beitbridge ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="hHheqUpfla0" displayName="mn Kariyangwe Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IkmlK2VvJyA" displayName="ms Tongwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E54XNunYxiM" displayName="mn Hwange Colliery Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dctbNHhtdAb" displayName="mc Takawira Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OExCvkJ9VkG" displayName="mn Simatelele Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MfkW1a4Hqku" displayName="mn Hwange NRZ Surgery Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cOFrvE80WQ7" displayName="ms Chaswingo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yWUEiTZdX3r" displayName="ms Beitbridge NRZ Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="e2w3gIVleBH" displayName="mc Mliti clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NX5E8VD4qql" displayName="ms Zezani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="A925fAGWY0M" displayName="mn Sinakoma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qZWI3x37dyN" displayName="mn Kamativi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZF4DBQE21YK" displayName="mn Mwakandara Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XJpNFeubEmY" displayName="ms Chamnangana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SbxuBIpMpI0" displayName="mc Mupfurudzi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="anB7WKFPWNK" displayName="mn Sikhobokhobo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fD3e45suK7g" displayName="mn Bemba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x3RUgj2P3u6" displayName="mn Mbuma Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rgzyJUhxM9t" displayName="mn Imbizo Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QRmrW2KSw7E" displayName="mn Lukala Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="N7lqxou06rj" displayName="mn Samahuru Rural health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="M8GUxpcY9zW" displayName="mn Bhubhudhe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pDNRL1m5sJd" displayName="mn Majiji Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tRcbhjUWJpw" displayName="mn Umuntu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v5HsXI0RbYg" displayName="mn Nshaba Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="A1W7R6k1DFR" displayName="mn Sebhumane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GAD9gVWs9cr" displayName="mn Kenilworth Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KkRJZlMtmZz" displayName="mn Raafs Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vpzJk8cjnPq" displayName="mn Khami Remand Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dxJvAPw0cIF" displayName="mn Sesemba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EI2eBWX6AdG" displayName="mn Makhaza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yOPB5Y4iGLD" displayName="mn Siganda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zWJE0ySFXHq" displayName="mn Zesa Dressing Station Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wycmA4jZHbq" displayName="mn Madlangombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HnmD3aN1Aji" displayName="mn Phumula Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="whpjZATZFoE" displayName="mn Elephant Hills Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qaQFT9xBClt" displayName="mn Induna Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AXfud0aoV19" displayName="mn Khami Medium Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zHpvI0rRefO" displayName="mn Khami Max Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Nl8DQA0UiAH" displayName="mn Umguza Council Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vnk8ws8BiGl" displayName="mn Khami Prison Dep Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GP77AVs6oLi" displayName="mn Mdutshane Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NwhxM073HO5" displayName="mn Nyamandlovu Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZSPT125KBlK" displayName="mn Nyamandlovu Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dsqZiQwL964" displayName="mn Turk Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="U955E1dbBJN" displayName="mn Fairbridge Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ptCi4yUczMp" displayName="mn Ntabazinduna ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z3HcoSNeppw" displayName="mn Zesa Chibondo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="TVm0Oe65yz9" displayName="mn Redwood Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JUDZoAkUMWG" displayName="mn Simangane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aqDFRDAgV5s" displayName="mn Nkayi Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Lux101IAoQw" displayName="mn Mbembesi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mWDhu5xtTrE" displayName="mn Isabella Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xhIwGYQXNXZ" displayName="mn NRZ Inguminja Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zbS445H6kah" displayName="mn ZESA Ingagula Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lZbqwxClTKl" displayName="mn Siphepha Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="X0nOmkqcDn9" displayName="mn TG Silundika Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="poAoKEJzA1L" displayName="mn Mlondolozi Female Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IihNPoKOuZq" displayName="mn Mlagisa Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WKaj0aWHhxU" displayName="ms Gwanda ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rsn7P5OG1qd" displayName="bu Dr W Ndebele Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CgvZBugWYNn" displayName="bu Galen House Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="f6TuF07vwQr" displayName="bu United Bulawayo Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ksvPeqYhNHi" displayName="ms Jessie Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="W71FXxLCgwr" displayName="bu Magwegwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uUh93Rzjw0K" displayName="ms Blanket Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tPTWTiP1Kqw" displayName="ms Lushongwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="l4HBtkwJhfZ" displayName="bu King's Maternity Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uZx1AbqBvTk" displayName="bu Main Street Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lNcVomkCBOC" displayName="bu Mpilo Central Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Jf06hGdTGOt" displayName="Mahatshula Private Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XrHUnXYBubZ" displayName="mn Dongamuzi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lmWhvNsB4XS" displayName="bu Tshabalala Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zmivGPwI9w9" displayName="bu Entumbane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s9H39zxxy8a" displayName="ms JM Polytech Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UZ7r9hwZMgd" displayName="ms Mapate Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xQrUWw2fUC7" displayName="bu Pumula Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RPASqynqwCM" displayName="bu Maqhawe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DKPcDr74KRI" displayName="mn Fatima Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="n94LdFhOYbM" displayName="ms Gwanda ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="snVfYfw3wu2" displayName="bu Mater Dei Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cs3euJGArOo" displayName="bu Jubilee Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="g6ay6w7LekM" displayName="bu EF Watson Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dj3yixBALQD" displayName="bu Maternal and Child Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xgkg7SkAtoW" displayName="bu Luveve Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zDJxAy5tWc9" displayName="bu Magwegwe North Surgery" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zxc4441YIhY" displayName="bu Mzilikazi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="e1IkMDxL8fe" displayName="bu Khami Road Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ECxIUwSg9Ep" displayName="mn Lupaka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Ta5WU3NkNI0" displayName="bu Pumula South Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qHOiL9glACJ" displayName="ms Zimcan Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HyfZLnkED5k" displayName="bu Northern Suburbs Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kQYOhNfF8V7" displayName="bu Nketa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yuqvs8nDoW7" displayName="bu Njube Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DwAlIVIbmIU" displayName="bu Marondera PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RcNBj1T8gKb" displayName="bu Thorngrove Infectious Diseases Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VWMkdfPIFPU" displayName="bu 24 Hour Medical Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="vzOHH2UeLTM" displayName="bu Pelandaba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wBUDmbYlwLg" displayName="bu Dr Shennan Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nRFC0VVvNG1" displayName="ms Gwanda Provincial Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Wrw1IDqVBNr" displayName="ms Sitezi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PhCiI8NplKa" displayName="ms Phakama Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rzb4Tw8eRDn" displayName="bu Bulawayo Maternal Health Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UZqwaoVwvED" displayName="bu Bulawayo Family Medical Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="P4uahA4HI3l" displayName="mn Mdlankuzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cHsk8ISst3c" displayName="ms Matopo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AKb6QXbWJCC" displayName="mn Lupane Mobile A" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nvcYHMpAHfm" displayName="ms Kombo Health Post" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sHMQrK4mrVe" displayName="ms Bango Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jeGBzfmKlQl" displayName="mn St Luke's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PbZBQj0Weu0" displayName="mn Lupane ZNFPC Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yVmpZgFmHx4" displayName="ms Mzingwane High Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="o7lk8OxDSN5" displayName="ms Kumbudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JW60FzjZUJu" displayName="ms Masiye Camp Health Post" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tROtYT5ipod" displayName="ms Mpisini Health Post" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yW7Fi0sI8ww" displayName="ms Shangani Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nwwAxlXbJwl" displayName="ms Huwana Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dekCnTKC0br" displayName="ms Masendu Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DROeVoEXVYs" displayName="ms Empandeni Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nCSV7v53HRq" displayName="mn St Paul's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="puEtgGYL24a" displayName="ms Lady Barring Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="C31Snb6h6dX" displayName="ms Umzingwane ZNA Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UBges4sOxQE" displayName="mn Lupane Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ylFBVjnvqYP" displayName="ha Parirenyatwa Casualty" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lhvnFybX6Pe" displayName="ms Nyamime Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GJZjvxYCw20" displayName="ms Insiza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bmL5zWEj6T7" displayName="ms Madlambudzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="acCVg6eZCR4" displayName="ms Habane Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pHDEvqavUGq" displayName="ms Esibomvu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="icJVWJT4Kor" displayName="ms Lady Stanley Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KQ8U5Cg3AUa" displayName="ms Singwambizi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IH6BF90iN6D" displayName="ms Plumtree Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kVEQJTFoFoA" displayName="ha Seke South Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SgPs0vNlPpn" displayName="me Wazvaramhaka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JHGXfAqaDN6" displayName="ha St Mary's Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UWlAvJGXIFq" displayName="me Manyene Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AnhuqtGQXU9" displayName="me Luisa Guidotti Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yPuklv04aPn" displayName="me Pokoteke Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AZ9MMvkxJ5m" displayName="me Sadza District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="nSAW8ByurST" displayName="me Chivhu ZPS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="v93SBcv3pGc" displayName="me Musumha Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MejHuw2wWXV" displayName="me Mutemwa Leprosy Settlement Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="P1Yxb7N3wvJ" displayName="ha Manyame 24 hr Maternity Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NmP3Phb5kXi" displayName="me Nyadiri Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tPiQaqp8wX7" displayName="ha Seke North Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FOLMj0wPdOM" displayName="bu Ingutsheni Central Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HvEGvesS9qA" displayName="me Madamombe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NgikWvqYEkx" displayName="me Kawere Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fZoVqfNG9Dg" displayName="ha Chitungwiza ZRP Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fqKerAPQHlY" displayName="me Chikondoma Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fEbetpqDByU" displayName="me Lancashire Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="D4WpAh9SgYH" displayName="me Charehwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cCdp294NXnX" displayName="me Nyadiri Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KzoyRcQSBbJ" displayName="me Kowo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wucRLEdDKSm" displayName="me Chidye Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="x44HsR9Qq1X" displayName="me Mushimbo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r8YiLD53wqA" displayName="ms St Joseph's Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MIE5WHdFdmK" displayName="ha Chitungwiza Central Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yXDxPkj2VjH" displayName="me Mutoko Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zp9pKkYf6Wp" displayName="me Shumba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OREiGho2b9G" displayName="ha South Medical Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NHj26zCwsmI" displayName="me Kawazva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HgTsVb46oGb" displayName="ms Cyrene Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BP9mhp7zXMN" displayName="ms Sankonjane Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WodUaeT9wjB" displayName="me Hoyuyu II Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NPo39PNvxY0" displayName="me Hoyuyu I Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="t0hAcwHFHPq" displayName="ha Braeside FHS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WaYcDd2d9pk" displayName="ha Borrowdale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qRWMwz2zOp2" displayName="me Dindi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FU8Z93y9IuS" displayName="ha Greendale FHS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PjmHC474EDN" displayName="ha Parirenyatwa Staff Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="shQMP49WeqE" displayName="ha Parirenyatwa Mbuya Nehanda Maternity Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MjDD6XQksTN" displayName="ha Beatrice Road Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Dn8LxB4ddA4" displayName="me Mashambanhaka Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yuE9DIrPeww" displayName="ha Hopley Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EWMnY0PYBjL" displayName="ha Mount Pleasant Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="NwIjXPvTYN0" displayName="ha Wilkins Infectious Diseases Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="VyjlnYDk0Qv" displayName="ha Highlands Primary Care Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fbumlk4A6cT" displayName="ha Southerton Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GdL5a5OSZ15" displayName="ha Budiriro PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JEzvI2oYG1E" displayName="ha Parirenyatwa Sekuru Kaguvi" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F4AJYW3LDd7" displayName="ha Hatcliffe PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LixFsP9YMT9" displayName="ha Avondale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UiPBTlrwap5" displayName="ha Belvedere Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IzyrISIu5GW" displayName="ha Parirenyatwa OPD" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="PLxOtSolhG5" displayName="ha Highfield PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="s1BtvNQ1vRc" displayName="ha Mbare Hostels Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EvB19FciC9r" displayName="ha Highlands FHS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="R9siosZGUNf" displayName="ha Glen Norah Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MNpfnKkWMnl" displayName="ha Mufakose PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AYEjUHiuvp5" displayName="ha Kambuzuma PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QOSVNeZ8v9H" displayName="ha Avenues Clinic Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="dhH6KRKUf1c" displayName="ha Marlborough Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WDTZBFDMNDF" displayName="ha Parirenyatwa Radiotherapy" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZRcIuk4ds0W" displayName="ha Eastley FHS Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mOG4It93hxE" displayName="ha Rujeko PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JKa3ZBAdM6k" displayName="ha Glen View Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="wg2bsCI6H4I" displayName="ha Parirenyatwa Family Planning" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kN7DcESNWZp" displayName="ha Mabvuku PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UQfTSqwDWuU" displayName="ha Sunningdale Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mee4OawYuZj" displayName="ha Kuwadzana PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="KDRm4HCFdj9" displayName="ha Mabelreign Satellite Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="E7AXNPjenwo" displayName="ha Matapi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ubKnqpQFMbU" displayName="ha Mabvuku Sate" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OBXlKhRkRIb" displayName="ha Arcadia Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ACVRAzGDfqV" displayName="me Chikuhwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uToHmSh0xud" displayName="ha Hatfield Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="udzEiBNEWeK" displayName="me Overspill Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YpyGnrByRlN" displayName="me Sengezi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AKCixQDIf0K" displayName="me Rakodzi Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xDCT70uOXUQ" displayName="me Mudzimurema Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kVejSam8zQX" displayName="me Gejo RaRuby Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jvPwK9jlFjR" displayName="me Gotora/Skimpton Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rV7p7ulQYVL" displayName="me Joan Rankini Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fS3cTGFoLZ0" displayName="me Zviduri Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="lxK3LLA9aLc" displayName="me Marondera Rural Council Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sXUp7AuXmyD" displayName="me Masikandoro Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="d36D8bX616g" displayName="me Marirangwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="cMGGgI1kcoa" displayName="me Rusununguko Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="isHKFLO4HHq" displayName="me Idube Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="jNap2n4Fp0y" displayName="me Kubatsirana Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="erjaP6iGLO9" displayName="me Zhakata Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rf7X8GX6O7P" displayName="me Dewe Council Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="YcXtnxEmwyu" displayName="me Melfort Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="P0jm09rHVzC" displayName="me Nyembanzvere Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="qEnOAb2ngj2" displayName="me Kushinga Phikhelela Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pH4O4ZdhV53" displayName="me Ruwa Rehabilitation Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="QHPjyQCdaZ1" displayName="me Borradaile Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Zdk9tV9SPmR" displayName="me Arcturus Mine Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SzXvLdD2rg2" displayName="me Chipararwe Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="feUcANH6pxB" displayName="me Mwanza Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EzI6Ss6lDDC" displayName="me Goromonzi High School Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="F0ea0uQpBtP" displayName="me Epworth Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="O6kzhSbPx0o" displayName="me Marondera ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="UHYe7uDKdy0" displayName="me Henry John Rheimer Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Z8GLhBou1nb" displayName="me Nyawure Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bI1tMUwxCTF" displayName="me Ruwa PolyClinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GN8ay9yoERu" displayName="me Epworth Polyclinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="zjRZGEq6H2c" displayName="me Marondera Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OFfbxvItnX5" displayName="me Acton Reynolds Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MZgVEwKjxI3" displayName="me Hwedza Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="p1T8lmKy3fI" displayName="me Nehoreka Pvt Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bM0W5COOBgn" displayName="me Chitowa 1 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="uI3m539OPHe" displayName="me Goso Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ga4R0LVpMQZ" displayName="me Kondo Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="r5kFjZtm6fX" displayName="me Ngwerume Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HYbpBJ0DCpZ" displayName="mi Njelele clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="xWpVDFqwfs9" displayName="me Waddilove School Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="t7hkFBKLoGo" displayName="me Kambarami Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="EW1W9dgRyOa" displayName="me Murewa Polyclinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="WnPhXXKOpLq" displayName="me Kadenge Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Uzc69lvByvk" displayName="me St Pius Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XH5wtiNaktn" displayName="mi Mnene Outreach Mobile" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DvigEFxkVl1" displayName="me Nyamapanda Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="IODfsT3zfgs" displayName="mn Siadindi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xydb813pfZQ" displayName="me Kapotesa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="B7lz3ZdJEhH" displayName="me Welcome Home Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="mG2ONKeQCOH" displayName="me Virginia Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="AXXQQVWUbCw" displayName="me Mudzi Camp Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Sj0rbpas8DA" displayName="me Nyamatawa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ZhCfNcrOPZb" displayName="me Matututu Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Xj0WA3RP39z" displayName="me Chivhu ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="RUbBKXlaAGF" displayName="me Mukamba Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="sCYa4AlPTb9" displayName="me Murewa Gvt District Hospital OPD" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="e95WT3Di3Ae" displayName="me Chikwizo Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="BKZmRVJ0K9V" displayName="me Ridigita Farm Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="GRyNGyhYYmi" displayName="me St Paul's Musami Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XUeDZQc29Ce" displayName="me Dombwe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="CijX89n5eHh" displayName="me Craiglea Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="JW2LQmwyzs4" displayName="me Murehwa ZRP Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pb9OlYzcpDj" displayName="me Chitowa 2 Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="DZPVGzfLY1Y" displayName="me Nyahuku Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="rVVyFuRAfpN" displayName="me Muchinjike Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eANtdLc9zeW" displayName="me Kotwa Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="OjHPEREAz9r" displayName="me Murewa Gvt district hospital (EPI / FCH)" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="yMtK3S8nhQo" displayName="me Gozi Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="M4GcIA6G5Yf" displayName="me Wenimbe Rural Health Centre" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bvHAxX0E4E3" displayName="ma Sakubva District Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="Hgy0mKJsd6k" displayName="ma Nyazura Mission Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bCj2JfVpDwN" displayName="bu Cowdray Park Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="XhRWmvXHxeR" displayName="ma Chikanga Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="MrKXsFnrL8j" displayName="ma Dangamvura Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="h19bKSYBhsC" displayName="ma Fern Valley Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="acZeUEYvJu9" displayName="ma Hob House Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pyvuKuH8RCC" displayName="ma Mutare City Health Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="aFSG27wnzQY" displayName="ma Chawatama" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="bfVPM1gVDQW" displayName="ma Nyashanu Rural Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="SAAdC9MLpwY" displayName="ma Mutare Infectious Disease Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="fmgu6etdyLq" displayName="ma Sakubva Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="gNDwbtp5I75" displayName="ma Mount Melleray Mission Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="ejTzO8trGcX" displayName="ma Stapleford Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="H2meFOjYe4f" displayName="ha Harare Central Prison Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LKQCVzMlfxz" displayName="ha Chikurubi Female Prison Clinic" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="kh7nxvSaNtx" displayName="ha Chikurubi Maximum Prison Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="LJUiK9hhD3j" displayName="ha Chikurubi Farm Prison" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pJzxm1iX9aX" displayName="ha Harare Central Hospital - Paediatrics" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eDGFnPUEdUa" displayName="ha Harare Central Hospital - Maternity" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="pVDVEDFmWLQ" displayName="ha Harare Central Hospital - Outpatient" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="eTA5ytgSLEC" displayName="ha Harare Central Hospital - Casulaity" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="tlFU8mpE5cZ" displayName="ha Harare Central Hospital - Psychiatric" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="FpNBPDwCtGY" displayName="ha Harare Central Hospital - OI Adult" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="HUSuR3389IX" displayName="ha Harare Central Hospital - OI Paediatrics" codeSystem="dhis.mohcc.gov.zw"/>
+    <svs:Concept code="egktPmYQEns" displayName="ha Harare Central Hospital" codeSystem="dhis.mohcc.gov.zw"/>
+  </svs:ConceptList>
+</svs:ValueSet>
