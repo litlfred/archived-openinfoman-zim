@@ -1,0 +1,33 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.303066811644388421218835874384826963763" version="1" displayName="MedlabsCourse">
+    <ConceptList>
+        <Concept code="6c646f5d-f224-11e3-8520-b4b52f8805cf" displayName="" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647ef4-f224-11e3-8520-b4b52f8805cf" displayName="BACTERIOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647003-f224-11e3-8520-b4b52f8805cf" displayName="CLINICAL SCIENTIST" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c64857e-f224-11e3-8520-b4b52f8805cf" displayName="CYTOTEC" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647fa0-f224-11e3-8520-b4b52f8805cf" displayName="GENERAL REG MEMBER - B/TRANS" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c648427-f224-11e3-8520-b4b52f8805cf" displayName="GENERAL REG MEMBER - CYTOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c646834-f224-11e3-8520-b4b52f8805cf" displayName="GENERAL REG MEMBER - GENERAL" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6470ac-f224-11e3-8520-b4b52f8805cf" displayName="GENERAL REG MEMBER - PROV" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647486-f224-11e3-8520-b4b52f8805cf" displayName="HAEMATOLOGY/BLOOD TRANS" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647ce5-f224-11e3-8520-b4b52f8805cf" displayName="HBMLS STUDENT" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c646e0a-f224-11e3-8520-b4b52f8805cf" displayName="LABORATORY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647898-f224-11e3-8520-b4b52f8805cf" displayName="LIMITED SCIENTIST" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c646cd7-f224-11e3-8520-b4b52f8805cf" displayName="MICROSCOPIST" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c646eb6-f224-11e3-8520-b4b52f8805cf" displayName="PMTCT" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647790-f224-11e3-8520-b4b52f8805cf" displayName="SCBTT" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c646bfe-f224-11e3-8520-b4b52f8805cf" displayName="SCMLT" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6472f1-f224-11e3-8520-b4b52f8805cf" displayName="SCMLT STUDENT" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647a1e-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - BACT INC MYCOL" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6475c3-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - CHEMPATH" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647154-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - H &amp; IMMNOHAEMA" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647ae6-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - HISTOPATHOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647d9b-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - IMMUNOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6480b7-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - MICROBIOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647946-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST - PATHOLOGIST" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c648235-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST- BACT/PARACETOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6484d2-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST- PARACETOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c648365-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST-BACT/IMMUNOLOGY" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c647e4a-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST-BACT/MICRBIO" codeSystem="MEDLABS"></Concept>
+        <Concept code="6c6471f8-f224-11e3-8520-b4b52f8805cf" displayName="SPECIALIST-VIROLOGY" codeSystem="MEDLABS"></Concept>
+    </ConceptList>
+</ValueSet>

@@ -1,0 +1,33 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.220598456863701506537796269693024654488" version="1" displayName="AlliedCourse">
+    <ConceptList>
+        <Concept code="d85a96d4-f258-11e3-8520-b4b52f8805cf" displayName="ACUPUNCTURIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d857ec0a-f258-11e3-8520-b4b52f8805cf" displayName="AMBULANCE TECHNICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a95cd-f258-11e3-8520-b4b52f8805cf" displayName="CHIROPRACTOR" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9029-f258-11e3-8520-b4b52f8805cf" displayName="CLINICAL ASSISTANT" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9468-f258-11e3-8520-b4b52f8805cf" displayName="CLINICAL PSYCHOLOGIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a90e3-f258-11e3-8520-b4b52f8805cf" displayName="CLINICAL SOCIAL WORKER" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9e7e-f258-11e3-8520-b4b52f8805cf" displayName="DIAGNOSTIC RADIOGRAGHER" codeSystem="ALLIED"></Concept>
+        <Concept code="a1a4a5b2-45d8-441b-924c-de62f42192c8" displayName="DIAGNOSTIC RADIOGRAGHER" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a8f71-f258-11e3-8520-b4b52f8805cf" displayName="DIETICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9c9f-f258-11e3-8520-b4b52f8805cf" displayName="E.C.G TECHNICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9dbb-f258-11e3-8520-b4b52f8805cf" displayName="E.E.G TECHNICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a951a-f258-11e3-8520-b4b52f8805cf" displayName="EDUCATIONAL PSYCHOLOGIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a8baf-f258-11e3-8520-b4b52f8805cf" displayName="EMEGENCY MEDICAL TECHNICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9bdf-f258-11e3-8520-b4b52f8805cf" displayName="HEALTH EDUCATION PROMOTION OFFICER" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9792-f258-11e3-8520-b4b52f8805cf" displayName="HOMEOPATH" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9a11-f258-11e3-8520-b4b52f8805cf" displayName="HOSPITAL EQUIPMENT/ INSTRUMENT TECHNICIAN" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a8e01-f258-11e3-8520-b4b52f8805cf" displayName="HOSPITAL FOOD SERVICES SUPERVISOR" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9f3d-f258-11e3-8520-b4b52f8805cf" displayName="INERNSHIP CLINICAL PSYCHOLOGY" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9ffd-f258-11e3-8520-b4b52f8805cf" displayName="INTERNSHIP IN INDUSTRIAL/OCCUPATIONAL PSYCHOLOGY" codeSystem="ALLIED"></Concept>
+        <Concept code="d85aa115-f258-11e3-8520-b4b52f8805cf" displayName="INTERSHIP IN EDUCATIONAL PSYCHOLOGY" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9abd-f258-11e3-8520-b4b52f8805cf" displayName="MEDICAL PHYSICIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9843-f258-11e3-8520-b4b52f8805cf" displayName="NATUROPATH" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a8ec0-f258-11e3-8520-b4b52f8805cf" displayName="NUTRITIONIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a93b2-f258-11e3-8520-b4b52f8805cf" displayName="OCCUPATIONAL/INDUSTRIAL PSYCHOLOGIST" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9965-f258-11e3-8520-b4b52f8805cf" displayName="OSTEOPATH" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a8d37-f258-11e3-8520-b4b52f8805cf" displayName="PARAMEDIC" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9196-f258-11e3-8520-b4b52f8805cf" displayName="THERAPEUTIC RADIOGRAPHER" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a9251-f258-11e3-8520-b4b52f8805cf" displayName="THERAPEUTIC RADIOGRAPHER" codeSystem="ALLIED"></Concept>
+        <Concept code="d85a92ff-f258-11e3-8520-b4b52f8805cf" displayName="X-RAY OPERATOR" codeSystem="ALLIED"></Concept>
+    </ConceptList>
+</ValueSet>

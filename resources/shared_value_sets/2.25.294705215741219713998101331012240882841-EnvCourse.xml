@@ -1,0 +1,8 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.294705215741219713998101331012240882841" version="1" displayName="EnvCourse">
+    <ConceptList>
+        <Concept code="3ef01379-10c5-4e2f-88a8-a137bcbd897a" displayName="ENVIRONMENTAL HEALTH OFFICER" codeSystem="ENV"></Concept>
+        <Concept code="2afd0d98-04ff-41f7-8ffc-fe80bacc5bf8" displayName="ENVIRONMENTAL HEALTH TECHNICIAN" codeSystem="ENV"></Concept>
+        <Concept code="dea74c7f-c92c-4e05-b264-febda60b75ef" displayName="MEAT EXAMINERS" codeSystem="ENV"></Concept>
+        <Concept code="b21cf264-1580-47fa-a385-f75080dc527b" displayName="MEAT INSPECTOR" codeSystem="ENV"></Concept>
+    </ConceptList>
+</ValueSet>

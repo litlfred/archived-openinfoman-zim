@@ -1,0 +1,10 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.332768425321176549939370951622736363737" version="1" displayName="PharmacyCourse">
+    <ConceptList>
+        <Concept code="202ff022-71bf-4ed2-8607-7b07fa411a9c" displayName="DISPENSING OPTICIAN" codeSystem="PCZ"></Concept>
+        <Concept code="6cd6af06-0385-4264-811a-67e4aabf6c61" displayName="HEARING AID SPECIALIST" codeSystem="PCZ"></Concept>
+        <Concept code="a94ed35d-2dd3-43ea-888a-1b50b9e18cda" displayName="OPTOMETRIST" codeSystem="PCZ"></Concept>
+        <Concept code="04d6151c-652b-4a50-934d-72a8381ce5ea" displayName="ORTHOPTIST" codeSystem="PCZ"></Concept>
+        <Concept code="9cb88a0f-67c2-4fe3-92a6-6c6ca5375134" displayName="PHARMACIST" codeSystem="PCZ"></Concept>
+        <Concept code="e6e5d567-1737-4f25-bc1f-7a3362c9fa73" displayName="PHARMACY TECHNICIAN" codeSystem="PCZ"></Concept>
+    </ConceptList>
+</ValueSet>
